@@ -1,0 +1,1 @@
+{"platforms": ["*"], "url": "https://github.com/victorporof/Sublime-HTMLPrettify", "version": "2015.03.17.20.53.05", "sublime_text": "*", "dependencies": [], "description": "HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js"}
