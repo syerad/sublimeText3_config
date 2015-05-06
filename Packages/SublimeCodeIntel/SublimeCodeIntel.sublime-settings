@@ -64,7 +64,7 @@
        "all" - add word completions from all views from active window
        "none" - do not add word completions
     */
-    "codeintel_word_completions": "all",
+    "codeintel_word_completions": "buffer",
 
     /*
        Insert functions snippets.
@@ -105,7 +105,7 @@
            Drupal (for PHP: A full-featured PHP content management/discussion engine -- v5.1)
            PECL (for PHP: A collection of PHP Extensions)
     */
-    "codeintel_selected_catalogs": ["jquery","HTML5","Mozilla Toolkit"],
+    "codeintel_selected_catalogs": [],
 
     /*
         When editing within a defined scope, no live completion will trigger. ex: ["comment"]

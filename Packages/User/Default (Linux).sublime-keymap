@@ -41,7 +41,10 @@
 { "keys": ["f2"],
             "command": "side_bar_rename"
         },
-{ "keys": ["ctrl+m", "ctrl+m"], "command": "toggle_minimap" },
+{ "keys": ["ctrl+u", "ctrl+u"], "command": "toggle_minimap" },
 
+  // Toggle WhoCalled
+  { "keys": ["shift+ctrl+l"], "command": "who_called", "args": {"mode": "def"} },
+  { "keys": ["shift+alt+l"], "command": "who_called", "args": {"mode": "call"} }
 
 ]
