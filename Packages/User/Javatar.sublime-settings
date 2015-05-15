@@ -1,0 +1,45 @@
+{
+	"javatar_gp": 0,
+	"jdk_version":
+	{
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"build_systems":
+			[
+				{
+					"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+					"name": "Anaconda Python Builder",
+					"selector": "source.python",
+					"shell_cmd": "python -u \"$file\""
+				}
+			],
+			"folders":
+			[
+				{
+					"file_exclude_patterns":
+					[
+						"*.phar",
+						"*.lock",
+						"*.cache"
+					],
+					"folder_exclude_patterns":
+					[
+						".git",
+						"bin",
+						"vendor",
+						"web/bundles",
+						"app/cache",
+						"app/logs"
+					],
+					"follow_symlinks": true,
+					"path": "application"
+				}
+			]
+		}
+	}
+}
