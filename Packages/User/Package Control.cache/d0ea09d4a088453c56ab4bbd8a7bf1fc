@@ -1,0 +1,16 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "Web Inspector",
+            "details": "https://github.com/sokolovstas/SublimeWebInspector",
+            "releases": [{
+                "sublime_text": "<3000",
+                "details": "https://github.com/sokolovstas/SublimeWebInspector/tree/ST2"
+            },{
+            	"sublime_text": ">=3000",
+                "details": "https://github.com/sokolovstas/SublimeWebInspector/tree/ST3"
+            }]
+        }
+    ]
+}

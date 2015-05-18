@@ -1,0 +1,2164 @@
+{
+	"folder_history":
+	[
+		"/home/rsyed/Projects/fiona-2013/application"
+	],
+	"last_version": 3083,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"content",
+						"contentype"
+					],
+					[
+						"end",
+						"endfor"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"hasO",
+						"hasOwnProperty"
+					],
+					[
+						"vis",
+						"visibility"
+					],
+					[
+						"prepare",
+						"prepareDynamicLegend"
+					],
+					[
+						"dyn",
+						"dynleg"
+					],
+					[
+						"mat",
+						"match"
+					],
+					[
+						"_update",
+						"_updateGeometry"
+					],
+					[
+						"_upda",
+						"_updateGeometry"
+					],
+					[
+						"pop",
+						"popup"
+					],
+					[
+						"HTML",
+						"HTML5"
+					],
+					[
+						"di",
+						"dialog"
+					],
+					[
+						"vector",
+						"vectorLayer"
+					],
+					[
+						"add",
+						"addFeatures"
+					],
+					[
+						"send",
+						"sendPrint"
+					],
+					[
+						"block",
+						"block.	block (block)"
+					],
+					[
+						"bloc",
+						"block.	block (block)"
+					],
+					[
+						"pre",
+						"pre	Debug Ausgabe in PHP"
+					],
+					[
+						"php",
+						"php-getset	Create getter and setter methods"
+					],
+					[
+						"opti",
+						"option	Tag"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"historicL",
+						"historicLayers〔variable〕"
+					],
+					[
+						"hist",
+						"historicLayers"
+					],
+					[
+						"getLayer",
+						"getLayerType"
+					],
+					[
+						"host",
+						"hostname"
+					],
+					[
+						"admin_",
+						"admin_database_host"
+					],
+					[
+						"con",
+						"connectionString〔variable〕"
+					],
+					[
+						"connec",
+						"connectionString"
+					],
+					[
+						"current",
+						"currentItem"
+					],
+					[
+						"arr",
+						"arrComb"
+					],
+					[
+						"session",
+						"sessionStorage"
+					],
+					[
+						"utf8_",
+						"utf8_decode〔function〕"
+					],
+					[
+						"Scha",
+						"SchALVO"
+					],
+					[
+						"get",
+						"getParameter〔function〕"
+					],
+					[
+						"g",
+						"getParameter〔function〕"
+					],
+					[
+						"set",
+						"setParameter〔function〕"
+					],
+					[
+						"temp",
+						"template"
+					],
+					[
+						"sch",
+						"schaedlingserfassung"
+					],
+					[
+						"chang",
+						"changeLinks"
+					],
+					[
+						"choos",
+						"choosedRole"
+					],
+					[
+						"antrag",
+						"antragsJahr"
+					],
+					[
+						"fro",
+						"fromArray"
+					],
+					[
+						"OpenL",
+						"OpenLayers"
+					],
+					[
+						"schal",
+						"schalvo"
+					],
+					[
+						"Schal",
+						"SchALVO"
+					],
+					[
+						"S",
+						"Schaedlingserfassung"
+					],
+					[
+						"choo",
+						"choosedEntry"
+					],
+					[
+						"base",
+						"basedir"
+					],
+					[
+						"config",
+						"configuration"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"true",
+						"true〔keyword〕"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"rolechoo",
+						"rolechooser-close"
+					],
+					[
+						"has",
+						"hasClass	.hasClass()"
+					],
+					[
+						"role",
+						"rolechooser"
+					],
+					[
+						"r",
+						"rgba()"
+					],
+					[
+						"acti",
+						"activate"
+					],
+					[
+						"fsb_",
+						"fsb_js_url"
+					],
+					[
+						"gisela",
+						"giselamap"
+					],
+					[
+						"status",
+						"status_message"
+					],
+					[
+						"staut",
+						"status_message"
+					],
+					[
+						"var_",
+						"var_dump($e"
+					],
+					[
+						"gene",
+						"generateUrl"
+					],
+					[
+						"NewP",
+						"NewPasswordEqualsName"
+					],
+					[
+						"hand",
+						"handleDBResponse"
+					],
+					[
+						"pub",
+						"pubf	publicFunction"
+					],
+					[
+						"featureColl",
+						"featureCollectionContent"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"stat",
+						"startHeight"
+					],
+					[
+						"start",
+						"startWidth"
+					],
+					[
+						"Image",
+						"ImageJPEG"
+					],
+					[
+						"crea",
+						"create_image"
+					],
+					[
+						"app",
+						"append"
+					],
+					[
+						"_",
+						"_FILES"
+					],
+					[
+						"file",
+						"fileUpload (fn)"
+					],
+					[
+						"img",
+						"img_w"
+					],
+					[
+						"read",
+						"readFile (fn)"
+					],
+					[
+						"$",
+						"$	$('#select DOM Element')"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"div",
+						"div	<div>"
+					],
+					[
+						"$meta",
+						"$metadataForm"
+					],
+					[
+						"href",
+						"href=\"#kml"
+					],
+					[
+						"del",
+						"delegate	.delegate()"
+					],
+					[
+						"bin",
+						"bind	.bind()"
+					],
+					[
+						"preview",
+						"previewTabs"
+					],
+					[
+						"geoP",
+						"geoPhpPath"
+					],
+					[
+						"json",
+						"json_encode($geoJson"
+					],
+					[
+						"geoJson",
+						"geoJsonFile"
+					],
+					[
+						"exportData",
+						"exportDataLinkContent"
+					],
+					[
+						"form",
+						"format"
+					],
+					[
+						"wmc",
+						"wmc_id"
+					],
+					[
+						"attach",
+						"attachments"
+					],
+					[
+						"general",
+						"generalExtensionArray"
+					],
+					[
+						"json_",
+						"json_encode($outputFormat"
+					],
+					[
+						"parse",
+						"parseXml"
+					],
+					[
+						"ad",
+						"administration"
+					],
+					[
+						"mb_user",
+						"mb_user_wmc"
+					],
+					[
+						"outpu",
+						"outputformat"
+					],
+					[
+						"link",
+						"link22"
+					],
+					[
+						"result",
+						"resultArray"
+					],
+					[
+						"resu",
+						"resultArray"
+					],
+					[
+						"terms",
+						"termsofuse_id"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"licen",
+						"licenseChooser"
+					],
+					[
+						"fk",
+						"fkey_termsofuse_id"
+					],
+					[
+						"wmc_l",
+						"wmc_local_data_fkey_termsofuse_id"
+					],
+					[
+						"fkey",
+						"fkey_user_id"
+					],
+					[
+						"choose",
+						"chooseLicenseDialog"
+					],
+					[
+						"initial",
+						"initialLicense"
+					],
+					[
+						"co",
+						"context"
+					],
+					[
+						"visi",
+						"visibility:false"
+					],
+					[
+						"os",
+						"osgeo_graphics"
+					],
+					[
+						"kml-fro",
+						"kml-from-wmc"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"head",
+						"headers"
+					],
+					[
+						"var",
+						"var_dump($conf);die"
+					],
+					[
+						"new",
+						"newCurlOptions"
+					],
+					[
+						"solr",
+						"solrCore"
+					],
+					[
+						"fio",
+						"fionaMapicons"
+					],
+					[
+						"font-",
+						"font-family"
+					],
+					[
+						"server",
+						"server_name"
+					],
+					[
+						"antrJahrPostfix",
+						"antrJahrPostfix (str)"
+					],
+					[
+						"ant",
+						"antrJahrPostfix (str)"
+					],
+					[
+						"high",
+						"highlightLayer"
+					],
+					[
+						"ge",
+						"geometry"
+					],
+					[
+						"fea",
+						"features"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "application/src/IZLBW/Base/PrintBundle/Component/PrintService.php",
+					"settings":
+					{
+						"buffer_size": 27244,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "gisela.sublime-project",
+					"settings":
+					{
+						"buffer_size": 412,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 207.0,
+				"last_filter": "snipper",
+				"selected_items":
+				[
+					[
+						"snipper",
+						"Snippet: Folder and File exclude etc."
+					],
+					[
+						"ctag",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"upgrade",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"git diff",
+						"Git: Diff Current File"
+					],
+					[
+						"sublmelinter",
+						"SublimeLinter: Enable Linting"
+					],
+					[
+						"editro",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"",
+						"Bookmarks: Select Previous"
+					],
+					[
+						"Snippet: php",
+						"Snippet: Debug Ausgabe in PHP"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: publicFunction"
+					],
+					[
+						"trimmer",
+						"Trimmer: Remove blank spaces."
+					],
+					[
+						"linter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"pa",
+						"Package Control: Enable Package"
+					],
+					[
+						"cta",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"hex",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"code",
+						"PHP_CodeSniffer: Check File"
+					],
+					[
+						"codes",
+						"PHP_CodeSniffer: Check File"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"git checkout",
+						"Git: Checkout Tag"
+					],
+					[
+						"git ch",
+						"Git: Checkout Tag"
+					],
+					[
+						"git dif",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"gist",
+						"Gist: Create Public Gist"
+					],
+					[
+						"package d",
+						"Package Control: Disable Package"
+					],
+					[
+						"package en",
+						"Package Control: Enable Package"
+					],
+					[
+						"livere",
+						"LiveReload: Self test"
+					],
+					[
+						"git che",
+						"Git: Checkout Tag"
+					],
+					[
+						"sidebar",
+						"Side Bar: Refresh"
+					],
+					[
+						"browse",
+						"Browse Mode: Jump List"
+					],
+					[
+						"bro",
+						"Browse Mode: Right Sidebar"
+					],
+					[
+						"instaa",
+						"Package Control: Install Package"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"git lo",
+						"Git: Log Current File"
+					],
+					[
+						"emmet ",
+						"Emmet: Select Next Item"
+					],
+					[
+						"emme",
+						"Emmet: Next Edit Point"
+					],
+					[
+						"emmet",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"ena",
+						"BracketHighlighter: Enable Debug Mode"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"tern",
+						"TernJS: Next Occurance"
+					],
+					[
+						"symfony class",
+						"Snippet: Symfony2 / Document / Document class"
+					],
+					[
+						"class",
+						"Snippet: Class"
+					],
+					[
+						"symfon clas",
+						"Snippet: Symfony2 / Command / Command class"
+					],
+					[
+						"emm",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"css",
+						"Emmet: Reflect CSS Value"
+					],
+					[
+						"jquery",
+						"Snippet: jQuery(document).ready"
+					],
+					[
+						"jque",
+						"Snippet: jQuery.map"
+					],
+					[
+						"doc",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"Doc",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"git:",
+						"Git: Blame"
+					],
+					[
+						"git:st",
+						"Git: Status"
+					],
+					[
+						"git:blam",
+						"Git: Blame"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"TODO",
+						"TodoReview: Project Files"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"getset",
+						"Snippet: Create getter and setter methods"
+					],
+					[
+						"setget",
+						"Snippet: Create getter and setter methods"
+					],
+					[
+						"Snippet: get",
+						"Snippet: Create getter and setter methods"
+					],
+					[
+						"get",
+						"Snippet: Create getter and setter methods"
+					],
+					[
+						"Snippet: pub",
+						"Snippet: publicFunction"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"tas",
+						"Tasks: New"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"snippe",
+						"Snippet: Folder and File exclude etc."
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pakacge",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"sniffer",
+						"PHP Code Sniffer: Sniff this file"
+					],
+					[
+						"pakac",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Enable Package"
+					],
+					[
+						"packge",
+						"Package Control: Disable Package"
+					],
+					[
+						"packe",
+						"Package Control: Enable Package"
+					],
+					[
+						"linte",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"lint",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"php",
+						"PHP Code Sniffer: Sniff this file"
+					],
+					[
+						"paka",
+						"Package Control: Disable Package"
+					],
+					[
+						"symfo",
+						"Symfony: go to view"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"INSTAll",
+						"Package Control: Install Package"
+					],
+					[
+						"sublimegit",
+						"SublimeGit: Documentation"
+					],
+					[
+						"packag",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Extract Annotations"
+					],
+					[
+						"pak",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 382.0,
+				"history":
+				[
+					"print test",
+					"test = 'beginn'",
+					"print 'test'",
+					"print beginn",
+					"print \"beginn\"",
+					"codeintel",
+					"view.encoding()",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/rsyed/Projects/fiona-2013/application"
+			],
+			"file_history":
+			[
+				"/home/rsyed/Schreibtisch/PrintService.php",
+				"/home/rsyed/Schreibtisch/sublime_failure.txt",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/gisela.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/PrintBundle/Component/PrintService.php",
+				"/home/rsyed/Projects/fiona-2013/application/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/qs/test/browser/jquery.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/PrintBundle/Component/PDF_ImageAlpha.php",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni/fpdf/lib/FPDF/FPDI.php",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni/fpdf/lib/FPDF/src/fpdf.php",
+				"/home/rsyed/Projects/fiona-2013/gisela.sublime-project",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Resources/public/css/printDialog.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/views/index.html.twig",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/rsyed/Schreibtisch/SublimeConfBackup/13.05.2015/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/rsyed/Projects/projectEuler/task1.py",
+				"/home/rsyed/Projects/fiona-2013/application/composer.phar",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js.dist",
+				"/home/rsyed/Schreibtisch/test.py",
+				"/home/rsyed/Projects/fiona-2013/.jscsrc",
+				"/home/rsyed/Projects/fiona-2013/application/.editorconfig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.gisRolechooser.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php",
+				"/home/rsyed/Projects/.editorconfig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/init.js",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/JS/consolelog.sublime-snippet",
+				"/home/rsyed/Projects/coding_examples/Sublime/.jscsrc.myStyle",
+				"/home/rsyed/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/PrintBundle/Component/OdgParser.php",
+				"/home/rsyed/.config/sublime-text-3/Packages/PhpNamespace/Default (Linux).sublime-keymap",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/public/js/getSelection.js",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/rsyed/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/build/fiona.cfg",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/lib/OpenLayers/Control/DragFeature.js",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/PHP/publicFunction.sublime-snippet",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/PrintBundle/Controller/PrintController.php",
+				"/home/rsyed/Projects/coding_examples/Sublime/.jscsrc",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/home/rsyed/.zshrc",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/addLicenseStamp.py",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/My_Plugins/addLicenseStamp.py",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/PHP/solr-find.sublime-snippet",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/PHP/pre-print_r.sublime-snippet",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/PHP/getset.sublime-snippet",
+				"/home/rsyed/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+				"/home/rsyed/Projects/fiona-2013/application/Gruntfile.js",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/parameters.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/fiona.featureinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselaprint/js/startPrintView.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/login/login.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/login/securityFrame.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/Template/regional/bootstrap.base.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/views/common.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Component/HTTPClient.php",
+				"/home/rsyed/Projects/fiona-2013/application/printDialog.css",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fa_foerderverfahren.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/notification/notification.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fa_digitale_flurbilanz.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.historicLayers.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/init.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/fiona.featureinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/fiona.featureinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselamap/js/gisela.gisRolechooser.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselalogin/css/giselaRoles.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/public/css/giselaNotification.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselalogin/css/giselaNotification.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselalogin/js/getSelection.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Component/FsbRightManager.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Component/AbfManager.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.fsbinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselamap/js/gisela.fsbinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fiona.yml",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/fiona.sidebar.js",
+				"/home/rsyed/.bugwarriorrc",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fa_schaedlingserfassung.yml",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/css/featureinfo.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/lib/OpenLayers-2.13.1/tests/Filter/FeatureId.html",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/lib/OpenLayers-2.13.1/examples/feature-events.html",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/swiftmailer/swiftmailer/lib/classes/Swift/FailoverTransport.php",
+				"/home/rsyed/Projects/fiona-2013/application/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/faye-websocket/examples/autobahn_client.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/config/services.xml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Security/Authentication/Provider/OraProvider.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Controller/WfstController.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/DigitizerBundle/Controller/FeatureController.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/css/main.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/css/sidebar.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselamap/css/giselaMain.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/theme/default/img/blank.gif",
+				"/home/rsyed/.config/sublime-text-3/Packages/PHP_CodeSniffer/PHP_CodeSniffer.sublime-settings",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/PHP_CodeSniffer.sublime-settings",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/config.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Handler/AuthenticationSuccessHandler.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Handler/LogoutHandler.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/config/security.xml",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/security.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/login.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Fiona/MapBundle/Resources/views/index.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basesearch/fiona.search.js",
+				"/home/rsyed/Projects/fiona-2013/application/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore/index.html",
+				"/home/rsyed/Projects/fiona-2013/application/app/Resources/views/base.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/app/Resources/views/base.html.twig",
+				"/home/rsyed/Schreibtisch/wms",
+				"/home/rsyed/Schreibtisch/zsdf",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/fiona.sidebar.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/GiselaPrintBundle.php",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/lib/OpenLayers-2.13.1/lib/OpenLayers/Layer/Grid.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/OpenLayers.debug.js",
+				"/media/rsyed/RS_WORK/test.txt",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/css/giselaMain.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/DigitizerBundle/Resources/public/js/digitizer.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/theme/default/style.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/DigitizerBundle/Resources/public/js/digitizer.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/css/main.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/lib/OpenLayers-2.13.1/theme/default/style.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/lib/OpenLayers-2.13.1/olfiona.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/lib/OpenLayers-2.13.1/theme/default/style.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/public/regional/vendor/bootstrap/3.2.0/css/bootstrap.css",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/hta.yml",
+				"/home/rsyed/Projects/ProjectDocumentation/GISELa/Apache2 Einrichtung SuseLinux"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"<project>",
+					"<project>,*.yml",
+					"<project>",
+					"<project>,*.css",
+					"<project>",
+					"<project>,*.css",
+					"<project>",
+					"<project>,*.js",
+					"<project>",
+					"<project>,",
+					"<project>,*.php",
+					"<project>",
+					"<project>,*.php",
+					"<project>",
+					"<open folders>",
+					"<open folders>,*.js",
+					"<open folders>,*.css",
+					"<open folders>",
+					"",
+					"<open folders>",
+					"<open folders>,*.css",
+					"<open folders>",
+					"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/js/fsb",
+					"<open folders>",
+					"/home/rsyed/Projects/fiona-2013/application/",
+					"/home/rsyed/Projects/fiona-2013/application/vendor",
+					"/home/rsyed/Projects/fiona-2013/application/vendor/symfony",
+					"/home/rsyed/Projects/fiona-2013/application/src/IZLBW",
+					"/home/rsyed/Projects/fiona-2013/application/vendor/symfony/symfony/src/Symfony",
+					"/home/rsyed/Projects/fiona-2013/application/vendor/symfony/symfony",
+					"/home/rsyed/Projects/fiona-2013/application/vendor/symfony/symfony/src/Symfony/Component/Security",
+					"<project>",
+					"/home/rsyed/Projects/fiona-2013/application/src/",
+					"/home/rsyed/Projects/fiona-2013/application/",
+					"/home/rsyed/Projects/fiona-2013/application/src/",
+					"/home/rsyed/Projects/fiona-2013/application/",
+					"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/",
+					"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Fiona/MapBundle/Resources/public",
+					"/home/rsyed/Projects/fiona-2013/application/src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"imagename",
+					"pre",
+					"$this->layer",
+					"contenttype",
+					"getimages",
+					"$im",
+					"im",
+					"pre",
+					"im",
+					"om",
+					"im",
+					"httpclient",
+					"mergedimage",
+					"getimages",
+					"transparency-slider",
+					"transparency_slider",
+					"layer_urls",
+					"layer",
+					"log",
+					"addPage",
+					"addpdf",
+					"layerTitle",
+					"createLabelImg",
+					"select[name",
+					"auto_complete",
+					"tern_argument_completion",
+					"panel",
+					"tern_argument_hints_type",
+					"tern_argument_hints",
+					"tern",
+					"getLegend",
+					"Consolas",
+					"buildpdf",
+					"legend",
+					"getPrintExtent",
+					"createGeometry",
+					"getprintextent",
+					"button",
+					"requireSpaceBetweenArguments",
+					"feature",
+					"getScale",
+					"100",
+					"button",
+					"printScale",
+					"change",
+					"lastScale",
+					"world_size",
+					"center",
+					"featureTest",
+					"updateElements",
+					"this.layer",
+					"inden",
+					"tab",
+					"tabs",
+					"fsbinfo",
+					"getSelection",
+					"printview",
+					"requireSpacesInsideParentheses",
+					"f5",
+					"f2",
+					"f4",
+					"reset",
+					"updategeometry",
+					"proxy",
+					"updategeome",
+					"this.feature",
+					"printview",
+					"bounds",
+					".printc",
+					".php",
+					"on(",
+					"on(change",
+					"template",
+					"replace",
+					"DragFeature",
+					"vectorLayer",
+					"drag",
+					"polygon",
+					"openlayers",
+					"template",
+					"geometry",
+					"generateFields",
+					"generateField",
+					"action",
+					"form",
+					"bold",
+					"tab",
+					"round",
+					"wmsurl",
+					"wmts",
+					"self.",
+					"historiclayer",
+					"sessionStorage.setItem",
+					"sessionstorage",
+					"getLayerName",
+					"changeSelectedYear",
+					"history",
+					"wmts",
+					".link",
+					"none",
+					"pointer-events: none",
+					"fiona.server_name",
+					"deactivate",
+					"fiona.server_name",
+					"schema",
+					"digitizer/feature",
+					"rpa",
+					"Fiona.server_name",
+					"server_name",
+					"isServiceName",
+					"giselainit",
+					"fionagis-roles-view",
+					"basedir",
+					"abf",
+					"oracle_service_name",
+					"features_database_host",
+					"$this->connectionStr",
+					"setupmap",
+					"olImageLoadError",
+					"log",
+					"logger",
+					"log",
+					"logger.log",
+					"olMap.events.register('move",
+					"#zoom-to-box-btn",
+					"zoom-to-box-btn",
+					"sidebar",
+					"FLURSTUECKSKENNZEICHEN"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Fiona.HistoricLayers.",
+					"Fiona.HistoricLayers",
+					"",
+					"\"",
+					"'",
+					"",
+					"$this->rolename",
+					"layer",
+					"\n",
+					".",
+					"#CECECE",
+					"#259d25",
+					"'%mapserver%'",
+					"$container",
+					"#",
+					"array($message[0])",
+					"OCI8Connection",
+					"DBUser",
+					"#ff8f0e",
+					"#ff7e0e",
+					"bundles/giselalogin",
+					"BaseMapBundle::common.html.twig",
+					"use IZLBW\\Fiona\\",
+					"sublime"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "application/src/IZLBW/Base/PrintBundle/Component/PrintService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27244,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "gisela.sublime-project",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 412,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										394,
+										394
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": true,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SymfonyCommander":
+			{
+				"height": 112.0
+			},
+			"output.exec":
+			{
+				"height": 342.0
+			},
+			"output.find_results":
+			{
+				"height": 858.0
+			},
+			"output.hex_viewer_inspector":
+			{
+				"height": 108.0
+			},
+			"output.package_dev":
+			{
+				"height": 126.0
+			},
+			"output.phpcs_result_view":
+			{
+				"height": 553.0
+			},
+			"output.unicode_preview":
+			{
+				"height": 696.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,3840,1080",
+			"project": "gisela.sublime-project",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"printservi",
+						"src/IZLBW/Base/PrintBundle/Component/PrintService.php"
+					],
+					[
+						"giselacontrolle",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"giselav",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"fiona.si",
+						"src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"print",
+						"~/Schreibtisch/PrintService.php"
+					],
+					[
+						"giselavie",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"start",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"index.html",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/index.html.twig"
+					],
+					[
+						"giselacontr",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"printcotnrolller",
+						"src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"login",
+						"src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php"
+					],
+					[
+						"jquery",
+						"node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/qs/test/browser/jquery.js"
+					],
+					[
+						"init",
+						"src/IZLBW/Base/MapBundle/Resources/public/init.js"
+					],
+					[
+						"odg",
+						"src/IZLBW/Base/PrintBundle/Component/OdgParser.php"
+					],
+					[
+						"gisrole",
+						"src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.gisRolechooser.js"
+					],
+					[
+						"getsele",
+						"src/IZLBW/Gisela/LoginBundle/Resources/public/js/getSelection.js"
+					],
+					[
+						"printview",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"prints",
+						"src/IZLBW/Base/PrintBundle/Component/PrintService.php"
+					],
+					[
+						"drag",
+						"src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/lib/OpenLayers/Control/DragFeature.js"
+					],
+					[
+						"princontr",
+						"src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"printcon",
+						"src/IZLBW/Base/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"giselayml",
+						"app/config/gisela.yml"
+					],
+					[
+						"startprinv",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"bootstrap.bas",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/Template/regional/bootstrap.base.html.twig"
+					],
+					[
+						"securityframe",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/login/securityFrame.html.twig"
+					],
+					[
+						"login.",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/login/login.html.twig"
+					],
+					[
+						"printdial",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/css/printDialog.css"
+					],
+					[
+						"common",
+						"src/IZLBW/Base/MapBundle/Resources/views/common.html.twig"
+					],
+					[
+						"gisela.html",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"notificatio",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/notification/notification.html.twig"
+					],
+					[
+						"fiona.fe",
+						"src/IZLBW/Base/MapBundle/Resources/public/fiona.featureinfo.js"
+					],
+					[
+						"historic",
+						"src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.historicLayers.js"
+					],
+					[
+						"fiona.feat",
+						"src/Fiona/MapBundle/Resources/public/fiona.featureinfo.js"
+					],
+					[
+						"ini",
+						"src/Fiona/MapBundle/Resources/public/init.js"
+					],
+					[
+						"init.js",
+						"src/IZLBW/Base/MapBundle/Resources/public/init.js"
+					],
+					[
+						"featureinf",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"notificai",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/notification/notification.html.twig"
+					],
+					[
+						"roles.css",
+						"web/bundles/giselalogin/css/giselaRoles.css"
+					],
+					[
+						"fsbin",
+						"src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.fsbinfo.js"
+					],
+					[
+						"fsb",
+						"web/bundles/giselamap/js/gisela.fsbinfo.js"
+					],
+					[
+						"index.htm",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/index.html.twig"
+					],
+					[
+						"fsbri",
+						"src/IZLBW/Gisela/MapBundle/Component/FsbRightManager.php"
+					],
+					[
+						"abf",
+						"src/IZLBW/Gisela/MapBundle/Component/AbfManager.php"
+					],
+					[
+						"featurein",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"abfman",
+						"src/IZLBW/Gisela/MapBundle/Component/AbfManager.php"
+					],
+					[
+						"giselacon",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"giselacot",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"sidebar",
+						"src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"services",
+						"src/IZLBW/Gisela/LoginBundle/Resources/config/services.xml"
+					],
+					[
+						"orapro",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/Provider/OraProvider.php"
+					],
+					[
+						"dyna",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php"
+					],
+					[
+						"fiona.side",
+						"~/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"gisela.",
+						"app/config/gisela.yml"
+					],
+					[
+						"para",
+						"app/config/parameters.yml"
+					],
+					[
+						"confi",
+						"app/config/config.yml"
+					],
+					[
+						"rolecon",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"drm",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php"
+					],
+					[
+						"main",
+						"src/IZLBW/Base/MapBundle/Resources/public/css/main.css"
+					],
+					[
+						"gisselavi",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"loginsucc",
+						"src/IZLBW/Gisela/LoginBundle/Handler/AuthenticationSuccessHandler.php"
+					],
+					[
+						"rolescon",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"logincontr",
+						"src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php"
+					],
+					[
+						"services.",
+						"src/IZLBW/Gisela/LoginBundle/Resources/config/services.xml"
+					],
+					[
+						"orapr",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/Provider/OraProvider.php"
+					],
+					[
+						"init.",
+						"src/Fiona/MapBundle/Resources/public/init.js"
+					],
+					[
+						"common.",
+						"src/IZLBW/Base/MapBundle/Resources/views/common.html.twig"
+					],
+					[
+						"giselaview",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"abfmana",
+						"src/IZLBW/Gisela/MapBundle/Component/AbfManager.php"
+					],
+					[
+						"index.h",
+						"src/IZLBW/Fiona/MapBundle/Resources/views/index.html.twig"
+					],
+					[
+						"gisela.fsb",
+						"src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.fsbinfo.js"
+					],
+					[
+						"rolesco",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"dynama",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php"
+					],
+					[
+						"or",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/Provider/OraProvider.php"
+					],
+					[
+						"printser",
+						"src/IZLBW/Base/PrintBundle/Component/PrintService.php"
+					],
+					[
+						"http",
+						"src/IZLBW/Gisela/PrintBundle/Component/HTTPClient.php"
+					],
+					[
+						"startpr",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"giselapr",
+						"src/IZLBW/Gisela/PrintBundle/GiselaPrintBundle.php"
+					],
+					[
+						"princon",
+						"src/IZLBW/Base/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"fa_fo",
+						"app/config/fa_foerderverfahren.yml"
+					],
+					[
+						"fa_",
+						"app/config/fa_foerderverfahren.yml"
+					],
+					[
+						"gisela.y",
+						"app/config/gisela.yml"
+					],
+					[
+						"roleman",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php"
+					],
+					[
+						"gisela",
+						"web/bundles/giselamap/css/giselaMain.css"
+					],
+					[
+						"foer",
+						"app/config/fa_foerderverfahren.yml"
+					],
+					[
+						"digi",
+						"src/Fiona/DigitizerBundle/Resources/public/js/digitizer.js"
+					],
+					[
+						"common.ht",
+						"src/IZLBW/Base/MapBundle/Resources/views/common.html.twig"
+					],
+					[
+						"style.css",
+						"src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/theme/default/style.css"
+					],
+					[
+						"main.css",
+						"src/IZLBW/Base/MapBundle/Resources/public/css/main.css"
+					],
+					[
+						"digiti",
+						"src/IZLBW/Base/DigitizerBundle/Resources/public/js/digitizer.js"
+					],
+					[
+						"bootstrap.css",
+						"web/bundles/basemap/lib/bootstrap/css/bootstrap.css"
+					],
+					[
+						"get",
+						"web/bundles/giselalogin/js/getSelection.js"
+					],
+					[
+						"featureinfo",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"secu",
+						"app/config/security.yml"
+					],
+					[
+						"printc",
+						"src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"sidebar.js",
+						"src/Fiona/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"roles",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/roles/roles.html.twig"
+					],
+					[
+						"giselaroles",
+						"web/bundles/giselalogin/css/giselaRoles.css"
+					],
+					[
+						"authenticanman",
+						"vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/AuthenticationProviderManager.php"
+					],
+					[
+						"roleco",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"rolechoo",
+						"web/bundles/giselamap/css/gisela-gisRolechooser.css"
+					],
+					[
+						"chooser",
+						"web/bundles/giselamap/js/gisela.gisRolechooser.js"
+					],
+					[
+						"giselaco",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"rolescontr",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"hta",
+						"app/config/hta.yml"
+					],
+					[
+						"giselalog",
+						"web/bundles/giselalogin/css/giselaLogin.css"
+					],
+					[
+						"giselalo",
+						"web/bundles/giselalogin/css/giselaLogin.css"
+					],
+					[
+						"role",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/roles/roles.html.twig"
+					],
+					[
+						"giselacont",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						".woff",
+						"web/bundles/fionamap/fonts/icomoon/fonts/icomoon.woff"
+					],
+					[
+						"main.cs",
+						"src/IZLBW/Base/MapBundle/Resources/public/css/main.css"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"config.y",
+						"app/config/config.yml"
+					],
+					[
+						"gisroles.css",
+						"web/bundles/giselalogin/css/giselaRoles.css"
+					],
+					[
+						"featurinfo.js",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"login.htm",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/login/login.html.twig"
+					],
+					[
+						"login.css",
+						"web/bundles/giselalogin/css/giselaLogin.css"
+					],
+					[
+						"gise",
+						"web/bundles/giselalogin/css/giselaLogin.css"
+					],
+					[
+						"fsbinf",
+						"web/bundles/giselamap/js/gisela.fsbinfo.js"
+					],
+					[
+						"fiona.fea",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"logincontrol",
+						"src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php"
+					],
+					[
+						"fiona.ym",
+						"app/config/fiona.yml"
+					],
+					[
+						"embedd",
+						"src/Fiona/MapBundle/Controller/EmbeddedController.php"
+					],
+					[
+						"fiona.sidebar",
+						"src/Fiona/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"featurecop",
+						"src/Fiona/DigitizerBundle/Controller/FeatureController.php"
+					],
+					[
+						"feature",
+						"src/Fiona/DigitizerBundle/Controller/FeatureController.php"
+					],
+					[
+						"featurecontrol",
+						"src/Fiona/DigitizerBundle/Controller/FeatureController.php"
+					],
+					[
+						"logincontroller",
+						"src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gir",
+						"~/Projects/girlsday/GirlsDay.sublime-project"
+					],
+					[
+						"",
+						"~/Projects/sublime_projects/rlp.sublime-project"
+					],
+					[
+						"girls",
+						"~/Projects/girlsday/girlsday.sublime-workspace"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 353.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": "/home/rsyed/Projects/fiona-2013/gisela.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/rsyed/Projects/fiona-2013/gisela.sublime-workspace"
+		]
+	}
+}

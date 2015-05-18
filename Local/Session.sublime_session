@@ -1,0 +1,3036 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3083,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"content",
+						"contentype"
+					],
+					[
+						"end",
+						"endfor"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"hasO",
+						"hasOwnProperty"
+					],
+					[
+						"vis",
+						"visibility"
+					],
+					[
+						"prepare",
+						"prepareDynamicLegend"
+					],
+					[
+						"dyn",
+						"dynleg"
+					],
+					[
+						"mat",
+						"match"
+					],
+					[
+						"_update",
+						"_updateGeometry"
+					],
+					[
+						"_upda",
+						"_updateGeometry"
+					],
+					[
+						"pop",
+						"popup"
+					],
+					[
+						"HTML",
+						"HTML5"
+					],
+					[
+						"di",
+						"dialog"
+					],
+					[
+						"vector",
+						"vectorLayer"
+					],
+					[
+						"add",
+						"addFeatures"
+					],
+					[
+						"send",
+						"sendPrint"
+					],
+					[
+						"block",
+						"block.	block (block)"
+					],
+					[
+						"bloc",
+						"block.	block (block)"
+					],
+					[
+						"pre",
+						"pre	Debug Ausgabe in PHP"
+					],
+					[
+						"php",
+						"php-getset	Create getter and setter methods"
+					],
+					[
+						"opti",
+						"option	Tag"
+					],
+					[
+						"type",
+						"typeof"
+					],
+					[
+						"historicL",
+						"historicLayers〔variable〕"
+					],
+					[
+						"hist",
+						"historicLayers"
+					],
+					[
+						"getLayer",
+						"getLayerType"
+					],
+					[
+						"host",
+						"hostname"
+					],
+					[
+						"admin_",
+						"admin_database_host"
+					],
+					[
+						"con",
+						"connectionString〔variable〕"
+					],
+					[
+						"connec",
+						"connectionString"
+					],
+					[
+						"current",
+						"currentItem"
+					],
+					[
+						"arr",
+						"arrComb"
+					],
+					[
+						"session",
+						"sessionStorage"
+					],
+					[
+						"utf8_",
+						"utf8_decode〔function〕"
+					],
+					[
+						"Scha",
+						"SchALVO"
+					],
+					[
+						"get",
+						"getParameter〔function〕"
+					],
+					[
+						"g",
+						"getParameter〔function〕"
+					],
+					[
+						"set",
+						"setParameter〔function〕"
+					],
+					[
+						"temp",
+						"template"
+					],
+					[
+						"sch",
+						"schaedlingserfassung"
+					],
+					[
+						"chang",
+						"changeLinks"
+					],
+					[
+						"choos",
+						"choosedRole"
+					],
+					[
+						"antrag",
+						"antragsJahr"
+					],
+					[
+						"fro",
+						"fromArray"
+					],
+					[
+						"OpenL",
+						"OpenLayers"
+					],
+					[
+						"schal",
+						"schalvo"
+					],
+					[
+						"Schal",
+						"SchALVO"
+					],
+					[
+						"S",
+						"Schaedlingserfassung"
+					],
+					[
+						"choo",
+						"choosedEntry"
+					],
+					[
+						"base",
+						"basedir"
+					],
+					[
+						"config",
+						"configuration"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"true",
+						"true〔keyword〕"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"rolechoo",
+						"rolechooser-close"
+					],
+					[
+						"has",
+						"hasClass	.hasClass()"
+					],
+					[
+						"role",
+						"rolechooser"
+					],
+					[
+						"r",
+						"rgba()"
+					],
+					[
+						"acti",
+						"activate"
+					],
+					[
+						"fsb_",
+						"fsb_js_url"
+					],
+					[
+						"gisela",
+						"giselamap"
+					],
+					[
+						"status",
+						"status_message"
+					],
+					[
+						"staut",
+						"status_message"
+					],
+					[
+						"var_",
+						"var_dump($e"
+					],
+					[
+						"gene",
+						"generateUrl"
+					],
+					[
+						"NewP",
+						"NewPasswordEqualsName"
+					],
+					[
+						"hand",
+						"handleDBResponse"
+					],
+					[
+						"pub",
+						"pubf	publicFunction"
+					],
+					[
+						"featureColl",
+						"featureCollectionContent"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"stat",
+						"startHeight"
+					],
+					[
+						"start",
+						"startWidth"
+					],
+					[
+						"Image",
+						"ImageJPEG"
+					],
+					[
+						"crea",
+						"create_image"
+					],
+					[
+						"app",
+						"append"
+					],
+					[
+						"_",
+						"_FILES"
+					],
+					[
+						"file",
+						"fileUpload (fn)"
+					],
+					[
+						"img",
+						"img_w"
+					],
+					[
+						"read",
+						"readFile (fn)"
+					],
+					[
+						"$",
+						"$	$('#select DOM Element')"
+					],
+					[
+						"sub",
+						"submit"
+					],
+					[
+						"div",
+						"div	<div>"
+					],
+					[
+						"$meta",
+						"$metadataForm"
+					],
+					[
+						"href",
+						"href=\"#kml"
+					],
+					[
+						"del",
+						"delegate	.delegate()"
+					],
+					[
+						"bin",
+						"bind	.bind()"
+					],
+					[
+						"preview",
+						"previewTabs"
+					],
+					[
+						"geoP",
+						"geoPhpPath"
+					],
+					[
+						"json",
+						"json_encode($geoJson"
+					],
+					[
+						"geoJson",
+						"geoJsonFile"
+					],
+					[
+						"exportData",
+						"exportDataLinkContent"
+					],
+					[
+						"form",
+						"format"
+					],
+					[
+						"wmc",
+						"wmc_id"
+					],
+					[
+						"attach",
+						"attachments"
+					],
+					[
+						"general",
+						"generalExtensionArray"
+					],
+					[
+						"json_",
+						"json_encode($outputFormat"
+					],
+					[
+						"parse",
+						"parseXml"
+					],
+					[
+						"ad",
+						"administration"
+					],
+					[
+						"mb_user",
+						"mb_user_wmc"
+					],
+					[
+						"outpu",
+						"outputformat"
+					],
+					[
+						"link",
+						"link22"
+					],
+					[
+						"result",
+						"resultArray"
+					],
+					[
+						"resu",
+						"resultArray"
+					],
+					[
+						"terms",
+						"termsofuse_id"
+					],
+					[
+						"len",
+						"length"
+					],
+					[
+						"licen",
+						"licenseChooser"
+					],
+					[
+						"fk",
+						"fkey_termsofuse_id"
+					],
+					[
+						"wmc_l",
+						"wmc_local_data_fkey_termsofuse_id"
+					],
+					[
+						"fkey",
+						"fkey_user_id"
+					],
+					[
+						"choose",
+						"chooseLicenseDialog"
+					],
+					[
+						"initial",
+						"initialLicense"
+					],
+					[
+						"co",
+						"context"
+					],
+					[
+						"visi",
+						"visibility:false"
+					],
+					[
+						"os",
+						"osgeo_graphics"
+					],
+					[
+						"kml-fro",
+						"kml-from-wmc"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"head",
+						"headers"
+					],
+					[
+						"var",
+						"var_dump($conf);die"
+					],
+					[
+						"new",
+						"newCurlOptions"
+					],
+					[
+						"solr",
+						"solrCore"
+					],
+					[
+						"fio",
+						"fionaMapicons"
+					],
+					[
+						"font-",
+						"font-family"
+					],
+					[
+						"server",
+						"server_name"
+					],
+					[
+						"antrJahrPostfix",
+						"antrJahrPostfix (str)"
+					],
+					[
+						"ant",
+						"antrJahrPostfix (str)"
+					],
+					[
+						"high",
+						"highlightLayer"
+					],
+					[
+						"ge",
+						"geometry"
+					],
+					[
+						"fea",
+						"features"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "application/src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js",
+					"settings":
+					{
+						"buffer_size": 23766,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "application/src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig",
+					"settings":
+					{
+						"buffer_size": 7103,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "application/src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php",
+					"settings":
+					{
+						"buffer_size": 7726,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "application/src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js",
+					"settings":
+					{
+						"buffer_size": 69903,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "application/src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php",
+					"settings":
+					{
+						"buffer_size": 4032,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "application/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/qs/test/browser/jquery.js",
+					"settings":
+					{
+						"buffer_size": 236202,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "application/src/IZLBW/Base/PrintBundle/Component/PrintService.php",
+					"settings":
+					{
+						"buffer_size": 27244,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "application/app/config/gisela.yml",
+					"settings":
+					{
+						"buffer_size": 7411,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "<?php\nnamespace DBSIMM\\ImmoBundle\\Component;\n\nuse Symfony\\Component\\HttpFoundation\\Request;\nuse Symfony\\Component\\HttpFoundation\\Response;\nuse Symfony\\Component\\HttpKernel\\HttpKernelInterface;\nuse FPDF_FPDF;\nuse FPDF_FPDI;\nuse Mapbender\\PrintBundle\\Component\\OdgParser;\nuse DBSIMM\\ImmoBundle\\Component\\PDF_ImageAlpha;\n\n/**\n * The print service.\n *\n * @author Stefan Winkelmann\n */\nclass PrintService\n{\n\n    public function __construct($container)\n    {\n        $this->container = $container;\n        $this->tempdir = sys_get_temp_dir();\n        //$this->tempdir = '/var/app/dbimmaps/tmp';\n    }\n\n    /**\n     * The main print function.\n     *\n     */\n    public function doPrint($content)\n    {\n        $this->data = $content;\n        $template = $this->data['template'];\n//        print \"<pre>\";\n//        print_r($this->data);\n//        print \"</pre>\";\n//        die();\n        $this->getTemplateConf($template);\n        $this->createUrlArray();\n        $this->setMapParameter();\n\n        if ($this->data['rotation'] == 0) {\n            $this->setExtent();\n            $this->setImageSize();\n            $this->getImages();\n        } else {\n            $this->rotate();\n        }\n        return $this->buildPdf();\n    }\n\n    /**\n     * Get the configuration from the template odg.\n     *\n     */\n    private function getTemplateConf($template)\n    {\n        $odgParser = new OdgParser($this->container);\n        $this->conf = $odgParser->getConf($template);\n    }\n\n    /**\n     * Get the configuration from the template odg.\n     *\n     */\n    private function createUrlArray()\n    {\n        foreach ($this->data['layers'] as $i => $layer) {\n            if($layer['type'] != 'wms') {\n                continue;\n            }\n            $url = strstr($this->data['layers'][$i]['url'], '&BBOX', true);\n            $this->layer_urls[$i] = $url;\n            //opacity\n            $this->layerOpacity[$i] = $this->data['layers'][$i]['opacity']*100;\n        }\n    }\n\n    /**\n     * Todo\n     *\n     */\n    private function setMapParameter()\n    {\n        $conf = $this->conf;\n        $quality = $this->data['quality'];\n        $this->orientation = $conf['orientation'];\n        $this->x_ul = $conf['map']['x'] * 10;\n        $this->y_ul = $conf['map']['y'] * 10;\n        $this->width = $conf['map']['width'] * 10;\n        $this->height = $conf['map']['height'] * 10;\n        $this->image_width = round($conf['map']['width'] / 2.54 * $quality);\n        $this->image_height = round($conf['map']['height'] / 2.54 * $quality);\n    }\n\n    /**\n     * Todo\n     *\n     */\n    private function setExtent()\n    {\n        $map_width = $this->data['extent']['width'];\n        $map_height = $this->data['extent']['height'];\n        $centerx = $this->data['center']['x'];\n        $centery = $this->data['center']['y'];\n\n        $ll_x = $centerx - $map_width * 0.5;\n        $ll_y = $centery - $map_height * 0.5;\n        $ur_x = $centerx + $map_width * 0.5;\n        $ur_y = $centery + $map_height * 0.5;\n\n        $bbox = '&BBOX=' . $ll_x . ',' . $ll_y . ',' . $ur_x . ',' . $ur_y;\n\n        foreach ($this->layer_urls as $k => $url) {\n            $url .= $bbox;\n            $this->layer_urls[$k] = $url;\n        }\n    }\n\n    /**\n     * Todo\n     *\n     */\n    private function setImageSize()\n    {\n        foreach ($this->layer_urls as $k => $url) {\n            $width = '&WIDTH=' . $this->image_width;\n            $height = '&HEIGHT=' . $this->image_height;\n            $url .= $width . $height;\n            if(!isset($this->data['replace_pattern'])){\n                if ($this->data['quality'] != '72') {\n                    $url .= '&map_resolution=' . $this->data['quality'];\n                }\n            }\n            $this->layer_urls[$k] = $url;\n        }\n    }\n\n    /**\n     * Todo\n     *\n     */\n    private function getImages()\n    {\n        $temp_names = array();\n        foreach ($this->layer_urls as $k => $url) {\n            $this->container->get(\"logger\")->debug(\"Print Request Nr.: \" . $k . ' ' . $url);\n            $attributes = array();\n            $attributes['_controller'] = 'OwsProxy3CoreBundle:OwsProxy:entryPoint';\n            $subRequest = new Request(array(\n                'url' => $url\n                ), array(), $attributes, array(), array(), array(), '');\n            $response = $this->container->get('http_kernel')->handle($subRequest,\n                HttpKernelInterface::SUB_REQUEST);\n\n            $tempdir = $this->tempdir;\n            $imagename = tempnam($tempdir, 'mb_print');\n            $temp_names[] = $imagename;\n\n            file_put_contents($imagename, $response->getContent());\n            $om = null;\n            switch (trim($response->headers->get('content-type'))) {\n                case 'image/png' :\n                    $om = imagecreatefrompng($imagename);\n                    break;\n                case 'image/jpeg' :\n                    $om = imagecreatefromjpeg($imagename);\n                    break;\n                case 'image/gif' :\n                    $om = imagecreatefromgif($imagename);\n                    break;\n                default:\n                    $this->container->get(\"logger\")->debug(\"Unknown mimetype \" . trim($response->headers->get('content-type')));\n                    continue;\n            }\n\n            if ($om !== null) {\n                // Make sure input image is truecolor with alpha, regardless of input mode!\n                $im = imagecreatetruecolor($this->image_width, $this->image_height);\n                imagealphablending($im, false);\n                imagesavealpha($im, true);\n                imagecopyresampled($im, $om, 0, 0, 0, 0, $this->image_width, $this->image_height, $this->image_width, $this->image_height);\n\n\n                // Taking the painful way to alpha blending. Stupid PHP-GD\n                $opacity = floatVal($this->data['layers'][$k]['opacity']);\n                if(1.0 !== $opacity) {\n                    $width = imagesx($im);\n                    $height = imagesy($im);\n                    for ($x = 0; $x < $width; $x++) {\n                        for ($y = 0; $y < $height; $y++) {\n                            $colorIn = imagecolorsforindex($im, imagecolorat($im, $x, $y));\n                            $alphaOut = 127 - (127 - $colorIn['alpha']) * $opacity;\n\n                            $colorOut = imagecolorallocatealpha(\n                                $im,\n                                $colorIn['red'],\n                                $colorIn['green'],\n                                $colorIn['blue'],\n                                $alphaOut);\n                            imagesetpixel($im, $x, $y, $colorOut);\n                            imagecolordeallocate($im, $colorOut);\n                        }\n                    }\n                }\n\n                imagepng($im, $imagename);\n            }\n        }\n        // create final merged image\n        $finalimagename = tempnam($tempdir, 'mb_print_merged');\n        $this->finalimagename = $finalimagename;\n        $finalImage = imagecreatetruecolor($this->image_width,\n            $this->image_height);\n        $bg = ImageColorAllocate($finalImage, 255, 255, 255);\n        imagefilledrectangle($finalImage, 0, 0, $this->image_width,\n            $this->image_height, $bg);\n        foreach ($temp_names as $temp_name) {\n            // Note: suppressing the errors IS bad, bad PHP wants us to do it that way\n            $src = @imagecreatefrompng($temp_name);\n            // Check that imagecreatefrompng did yield something\n            if ($src) {\n                $dest = $finalImage;\n                imagecopy($dest, $src, 0, 0, 0, 0, $this->image_width, $this->image_height);\n                imagepng($dest, $finalimagename);\n                unlink($temp_name);\n            }\n        }\n    }\n\n    /**\n     * Todo\n     *\n     */\n    private function rotate()\n    {\n        $tempdir = $this->tempdir;\n        $rotation = $this->data['rotation'];\n        $map_width = $this->data['extent']['width'];\n        $map_height = $this->data['extent']['height'];\n        $centerx = $this->data['center']['x'];\n        $centery = $this->data['center']['y'];\n\n        //set needed extent\n        $neededExtentWidth = abs(sin(deg2rad($rotation)) * $map_height) +\n            abs(cos(deg2rad($rotation)) * $map_width);\n        $neededExtentHeight = abs(sin(deg2rad($rotation)) * $map_width) +\n            abs(cos(deg2rad($rotation)) * $map_height);\n\n        $ll_x = $centerx - $neededExtentWidth * 0.5;\n        $ll_y = $centery - $neededExtentHeight * 0.5;\n        $ur_x = $centerx + $neededExtentWidth * 0.5;\n        $ur_y = $centery + $neededExtentHeight * 0.5;\n\n        $bbox = '&BBOX=' . $ll_x . ',' . $ll_y . ',' . $ur_x . ',' . $ur_y;\n\n        //set needed image size\n        $neededImageWidth = abs(sin(deg2rad($rotation)) * $this->image_height) +\n            abs(cos(deg2rad($rotation)) * $this->image_width);\n        $neededImageHeight = abs(sin(deg2rad($rotation)) * $this->image_width) +\n            abs(cos(deg2rad($rotation)) * $this->image_height);\n\n        $w = '&WIDTH=' . $neededImageWidth;\n        $h = '&HEIGHT=' . $neededImageHeight;\n\n        $temp_names = array();\n\n        foreach ($this->layer_urls as $k => $url) {\n            $url .= $bbox . $w . $h;\n\n            if(!isset($this->data['replace_pattern'])){\n                if ($this->data['quality'] != '72') {\n                    $url .= '&map_resolution=' . $this->data['quality'];\n                }\n            }\n\n            $this->container->get(\"logger\")->debug(\"Print Request Nr.: \" . $k . ' ' . $url);\n\n            //get image\n            $attributes = array();\n            $attributes['_controller'] = 'OwsProxy3CoreBundle:OwsProxy:entryPoint';\n            $subRequest = new Request(array(\n                'url' => $url\n                ), array(), $attributes, array(), array(), array(), '');\n            $response = $this->container->get('http_kernel')->handle($subRequest,\n                HttpKernelInterface::SUB_REQUEST);\n\n            $imagename = tempnam($tempdir, 'mb_print');\n            $temp_names[] = $imagename;\n\n            file_put_contents($imagename, $response->getContent());\n            $om = null;\n            switch (trim($response->headers->get('content-type'))) {\n                case 'image/png' :\n                    $om = imagecreatefrompng($imagename);\n                    break;\n                case 'image/jpeg' :\n                    $om = imagecreatefromjpeg($imagename);\n                    break;\n                case 'image/gif' :\n                    $om = imagecreatefromgif($imagename);\n                    break;\n                default:\n                    continue;\n                    $this->container->get(\"logger\")->debug(\"Unknown mimetype \" . trim($response->headers->get('content-type')));\n            }\n\n            if ($om !== null) {\n                // Make sure input image is truecolor with alpha, regardless of input mode!\n                $im = imagecreatetruecolor($neededImageWidth, $neededImageHeight);\n                imagealphablending($im, false);\n                imagesavealpha($im, true);\n                imagecopyresampled($im, $om, 0, 0, 0, 0, $neededImageWidth, $neededImageHeight, $neededImageWidth, $neededImageHeight);\n\n                // Taking the painful way to alpha blending. Stupid PHP-GD\n                $opacity = floatVal($this->data['layers'][$k]['opacity']);\n                if(1.0 !== $opacity) {\n                    $width = imagesx($im);\n                    $height = imagesy($im);\n                    for ($x = 0; $x < $width; $x++) {\n                        for ($y = 0; $y < $height; $y++) {\n                            $colorIn = imagecolorsforindex($im, imagecolorat($im, $x, $y));\n                            $alphaOut = 127 - (127 - $colorIn['alpha']) * $opacity;\n\n                            $colorOut = imagecolorallocatealpha(\n                                $im,\n                                $colorIn['red'],\n                                $colorIn['green'],\n                                $colorIn['blue'],\n                                $alphaOut);\n                            imagesetpixel($im, $x, $y, $colorOut);\n                            imagecolordeallocate($im, $colorOut);\n                        }\n                    }\n                }\n\n                imagepng($im, $imagename);\n            }\n\n\n        }\n\n        // create temp merged image\n        $tempimagename = tempnam($tempdir, 'mb_print_tempmerged');\n        $this->finalimagename = $tempimagename;\n        $finalImage = imagecreatetruecolor($neededImageWidth,\n            $neededImageHeight);\n        $bg = ImageColorAllocate($finalImage, 255, 255, 255);\n        imagefilledrectangle($finalImage, 0, 0, $neededImageWidth,\n            $neededImageHeight, $bg);\n        imagepng($finalImage, $tempimagename);\n        foreach ($temp_names as $temp_name) {\n            // Note: suppressing the errors IS bad, bad PHP wants us to do it that way\n            $src = imagecreatefrompng($temp_name);\n            // Check that imagecreatefrompng did yield something\n            if ($src) {\n                $dest = imagecreatefrompng($tempimagename);\n                imagecopy($dest, $src, 0, 0, 0, 0, $neededImageWidth,\n                    $neededImageHeight);\n                imagepng($dest, $tempimagename);\n                unlink($temp_name);\n            }\n        }\n        \n        //draw features\n        $this->drawFeatures();\n  \n        //rotate image\n        $tempimg = imagecreatefrompng($tempimagename);\n        $transColor = imagecolorallocatealpha($tempimg, 255, 255, 255, 127);\n        $rotatedImage = imagerotate($tempimg, $rotation, $transColor);\n        imagealphablending($rotatedImage, false);\n        imagesavealpha($rotatedImage, true);\n\n        $rotatimagename = tempnam($tempdir, 'mb_printrotated');\n        imagepng($rotatedImage, $rotatimagename);\n\n        //clip image from rotated\n        $rotated_width = round(abs(sin(deg2rad($rotation)) * $neededImageHeight) +\n            abs(cos(deg2rad($rotation)) * $neededImageWidth));\n        $rotated_height = round(abs(sin(deg2rad($rotation)) * $neededImageWidth) +\n            abs(cos(deg2rad($rotation)) * $neededImageHeight));\n        $newx = ($rotated_width - $this->image_width ) / 2;\n        $newy = ($rotated_height - $this->image_height ) / 2;\n\n        $clippedImageName = tempnam($tempdir, 'mb_printclip');\n        $clippedImage = imagecreatetruecolor($this->image_width,\n            $this->image_height);\n        imagealphablending($clippedImage, false);\n        imagesavealpha($clippedImage, true);\n        imagecopy($clippedImage, $rotatedImage, 0, 0, $newx, $newy,\n            $this->image_width, $this->image_height);\n        imagepng($clippedImage, $clippedImageName);\n        $this->finalimagename = $clippedImageName;\n        unlink($tempimagename);\n        unlink($rotatimagename);\n    }\n\n    /**\n     * Builds the pdf from a given template.\n     *\n     */\n    private function buildPdf()\n    {\n        require_once('PDF_ImageAlpha.php');\n        $tempdir = $this->tempdir;\n        $resource_dir = $this->container->getParameter('kernel.root_dir') . '/Resources/MapbenderPrintBundle';\n        $format = $this->data['format'];\n\n        if ($format == 'a2') {\n            $format = array(420, 594);\n        }\n\n        if ($format == 'a1') {\n            $format = array(594, 841);\n        }\n\n        if ($format == 'a0') {\n            $format = array(841, 1189);\n        }\n\n        $this->pdf = new PDF_ImageAlpha($this->orientation, 'mm', $format);\n        //$this->pdf = new FPDF_FPDI($this->orientation,'mm',$format);\n        $pdf = $this->pdf;\n        $template = $this->data['template'];\n        $pdffile = $resource_dir . '/templates/' . $template . '.pdf';\n        $pagecount = $pdf->setSourceFile($pdffile);\n        $tplidx = $pdf->importPage(1);\n\n        $pdf->SetAutoPageBreak(false);\n        $pdf->addPage();\n        $pdf->useTemplate($tplidx);\n\n        foreach ($this->conf['fields'] as $k => $v) {\n            $pdf->SetFont('Arial', '', $this->conf['fields'][$k]['fontsize']);\n            $pdf->SetXY($this->conf['fields'][$k]['x'] * 10,\n                $this->conf['fields'][$k]['y'] * 10);\n            switch ($k) {\n                case 'date' :\n                    $date = new \\DateTime;\n                    $pdf->Cell($this->conf['fields']['date']['width'] * 10,\n                        $this->conf['fields']['date']['height'] * 10,\n                        $date->format('d.m.Y'));\n                    break;\n                case 'scale' :\n                    if (isset($this->data['scale_select'])) {\n                        $pdf->Cell($this->conf['fields']['scale']['width'] * 10,\n                            $this->conf['fields']['scale']['height'] * 10,\n                            '1 : ' . $this->data['scale_select']);\n                    } else {\n                        $pdf->Cell($this->conf['fields']['scale']['width'] * 10,\n                            $this->conf['fields']['scale']['height'] * 10,\n                            '1 : ' . $this->data['scale_text']);\n                    }\n                    break;\n                default:\n                    if (isset($this->data['extra'][$k])) {\n                        $pdf->MultiCell($this->conf['fields'][$k]['width'] * 10,\n                            $this->conf['fields'][$k]['height'] * 10,\n                            $this->data['extra'][$k]);\n                    }\n                    break;\n            }\n        }\n\n         //draw features if rotation is 0\n        if ($this->data['rotation'] == 0) {\n            $this->drawFeatures();\n        }\n        \n        if ($this->data['rotation'] == 0) {\n\n            $pdf->Image($this->finalimagename, $this->x_ul,\n            $this->y_ul, $this->width, $this->height, 'png', '', false,\n            0, 5, -1 * 0);\n\n            $pdf->Rect($this->x_ul, $this->y_ul, $this->width, $this->height);\n            if (isset($this->conf['northarrow'])) {\n                $pdf->Image($resource_dir . '/images/northarrow.png',\n                    $this->conf['northarrow']['x'] * 10,\n                    $this->conf['northarrow']['y'] * 10,\n                    $this->conf['northarrow']['width'] * 10,\n                    $this->conf['northarrow']['height'] * 10);\n            }\n        } else {\n            $pdf->Image($this->finalimagename, $this->x_ul, $this->y_ul,\n                $this->width, $this->height, 'png', '', false, 0, 5, -1 * 0);\n\n            $pdf->Rect($this->x_ul, $this->y_ul, $this->width, $this->height);\n            if (isset($this->conf['northarrow'])) {\n                $this->rotateNorthArrow();\n            }\n        }\n\n        // add overview map\n        if (isset($this->data['overview']) && isset($this->conf['overview']) ) {\n            $this->getOverviewMap();\n        }\n\n        // add scalebar\n        if (isset($this->conf['scalebar']) ) {\n            $this->drawScaleBar();\n        }\n\n        if (isset($this->conf['dynleg']) ) {\n            $this->createLegend();\n        }\n\n        if (isset($this->conf['copyright']) ) {\n            //test\n            $copyrightFile = $resource_dir . '/templates/copyright.pdf';\n            $pagecount = $pdf->setSourceFile($copyrightFile);\n            $tplidx = $pdf->importPage(1);\n            $pdf->addPage();\n            $pdf->useTemplate($tplidx);\n        }\n\n        //$this->buildReportTables();\n\n        unlink($this->finalimagename);\n\n        return $pdf->Output(null, 'S');\n    }\n\n    /**\n     * Rotates the north arrow.\n     *\n     */\n    private function rotateNorthArrow()\n    {\n        $tempdir = $this->tempdir;\n        $resource_dir = $this->container->getParameter('kernel.root_dir') . '/Resources/MapbenderPrintBundle';\n        $rotation = $this->data['rotation'];\n        $northarrow = $resource_dir . '/images/northarrow.png';\n        $im = imagecreatefrompng($northarrow);\n        $transColor = imagecolorallocatealpha($im, 255, 255, 255, 0);\n        $rotated = imagerotate($im, $rotation, $transColor);\n        $imagename = tempnam($tempdir, 'mb_northarrow');\n        imagepng($rotated, $imagename);\n\n        if ($rotation == 90 || $rotation == 270) {\n            //\n        } else {\n            $src_img = imagecreatefrompng($imagename);\n            $srcsize = getimagesize($imagename);\n            $destsize = getimagesize($resource_dir . '/images/northarrow.png');\n            $x = ($srcsize[0] - $destsize[0]) / 2;\n            $y = ($srcsize[1] - $destsize[1]) / 2;\n            $dst_img = imagecreatetruecolor($destsize[0], $destsize[1]);\n            imagecopy($dst_img, $src_img, 0, 0, $x, $y, $srcsize[0], $srcsize[1]);\n            imagepng($dst_img, $imagename);\n        }\n\n        $this->pdf->Image($imagename,\n                            $this->conf['northarrow']['x'] * 10,\n                            $this->conf['northarrow']['y'] * 10,\n                            $this->conf['northarrow']['width'] * 10,\n                            $this->conf['northarrow']['height'] * 10,\n                            'png');\n        unlink($imagename);\n    }\n\n    private function getOverviewMap()\n    {\n        $temp_names = array();\n        foreach ($this->data['overview'] as $i => $layer) {\n            $url = strstr($this->data['overview'][$i]['url'], 'BBOX', true);\n\n            $ov_width = $this->conf['overview']['width'] * $this->data['overview'][0]['scale'] / 100;\n            $ov_height = $this->conf['overview']['height'] * $this->data['overview'][0]['scale'] / 100;\n\n            $centerx = $this->data['center']['x'];\n            $centery = $this->data['center']['y'];\n\n            $ll_x = $centerx - $ov_width * 0.5;\n            $ll_y = $centery - $ov_height * 0.5;\n            $ur_x = $centerx + $ov_width * 0.5;\n            $ur_y = $centery + $ov_height * 0.5;\n\n\n            $bbox = 'BBOX=' . $ll_x . ',' . $ll_y . ',' . $ur_x . ',' . $ur_y;\n            $url .= $bbox;\n\n            // image size\n            $conf = $this->conf;\n            $quality = $this->data['quality'];\n            $ov_image_width = round($conf['overview']['width'] / 2.54 * $quality);\n            $ov_image_height = round($conf['overview']['height'] / 2.54 * $quality);\n\n            $width = '&WIDTH=' . $ov_image_width;\n            $height = '&HEIGHT=' . $ov_image_height;\n            $url .= $width . $height;\n\n            $this->overview_urls[$i] = $url;\n\n            // get image\n            $this->container->get(\"logger\")->debug(\"Print Overview Request Nr.: \" . $i . ' ' . $url);\n            $attributes = array();\n            $attributes['_controller'] = 'OwsProxy3CoreBundle:OwsProxy:entryPoint';\n            $subRequest = new Request(array(\n                'url' => $url\n                ), array(), $attributes, array(), array(), array(), '');\n            $response = $this->container->get('http_kernel')->handle($subRequest,\n                HttpKernelInterface::SUB_REQUEST);\n\n            $tempdir = $this->tempdir;\n            $imagename = tempnam($tempdir, 'mb_print');\n            $temp_names[] = $imagename;\n\n            file_put_contents($imagename, $response->getContent());\n            $im = null;\n            switch (trim($response->headers->get('content-type'))) {\n                case 'image/png' :\n                    $im = imagecreatefrompng($imagename);\n                    break;\n                case 'image/jpeg' :\n                    $im = imagecreatefromjpeg($imagename);\n                    break;\n                case 'image/gif' :\n                    $im = imagecreatefromgif($imagename);\n                    break;\n                default:\n                    continue;\n                    $this->container->get(\"logger\")->debug(\"Unknown mimetype \" . trim($response->headers->get('content-type')));\n            }\n\n            if ($im !== null) {\n                imagesavealpha($im, true);\n                imagepng($im, $imagename);\n            }\n\n        }\n\n        // create final merged image\n        $finalimagename = tempnam($tempdir, 'mb_print_merged');\n        $finalImage = imagecreatetruecolor($ov_image_width,\n            $ov_image_height);\n        $bg = ImageColorAllocate($finalImage, 255, 255, 255);\n        imagefilledrectangle($finalImage, 0, 0, $ov_image_width,\n            $ov_image_height, $bg);\n        imagepng($finalImage, $finalimagename);\n        foreach ($temp_names as $temp_name) {\n            // Note: suppressing the errors IS bad, bad PHP wants us to do it that way\n            $src = imagecreatefrompng($temp_name);\n            // Check that imagecreatefrompng did yield something\n            if ($src) {\n                $dest = imagecreatefrompng($finalimagename);\n                $src = imagecreatefrompng($temp_name);\n                imagecopy($dest, $src, 0, 0, 0, 0, $ov_image_width,\n                    $ov_image_height);\n                imagepng($dest, $finalimagename);\n            }\n            unlink($temp_name);\n        }\n\n        $image = imagecreatefrompng($finalimagename);\n\n        // ohne rotation\n        if ($this->data['rotation'] == 0) {\n\n            $map_width = $this->data['extent']['width'];\n            $map_height = $this->data['extent']['height'];\n            $centerx = $this->data['center']['x'];\n            $centery = $this->data['center']['y'];\n\n            $ll_x = $centerx - $map_width * 0.5;\n            $ll_y = $centery - $map_height * 0.5;\n            $ur_x = $centerx + $map_width * 0.5;\n            $ur_y = $centery + $map_height * 0.5;\n\n            $lowerleft = $this->realWorld2ovMapPos($ov_width, $ov_height, $ll_x, $ll_y);\n            $upperright = $this->realWorld2ovMapPos($ov_width, $ov_height, $ur_x, $ur_y);\n\n\n            $lowerleft[0] = round($lowerleft[0]);\n            $lowerleft[1] = round($lowerleft[1]);\n            $upperright[0] = round($upperright[0]);\n            $upperright[1] = round($upperright[1]);\n\n            $red = ImageColorAllocate($image,255,0,0);\n            imageline ( $image, $lowerleft[0], $upperright[1], $upperright[0], $upperright[1], $red);\n            imageline ( $image, $upperright[0], $upperright[1], $upperright[0], $lowerleft[1], $red);\n            imageline ( $image, $upperright[0], $lowerleft[1], $lowerleft[0], $lowerleft[1], $red);\n            imageline ( $image, $lowerleft[0], $lowerleft[1], $lowerleft[0], $upperright[1], $red);\n\n        }else{// mit rotation\n\n            $ll_x = $this->data['extent_feature'][3]['x'];\n            $ll_y = $this->data['extent_feature'][3]['y'];\n            $ul_x = $this->data['extent_feature'][0]['x'];\n            $ul_y = $this->data['extent_feature'][0]['y'];\n\n            $lr_x = $this->data['extent_feature'][2]['x'];\n            $lr_y = $this->data['extent_feature'][2]['y'];\n            $ur_x = $this->data['extent_feature'][1]['x'];\n            $ur_y = $this->data['extent_feature'][1]['y'];\n\n\n            $p1 = $this->realWorld2ovMapPos($ov_width, $ov_height, $ll_x, $ll_y);\n            $p2 = $this->realWorld2ovMapPos($ov_width, $ov_height, $ul_x, $ul_y);\n            $p3 = $this->realWorld2ovMapPos($ov_width, $ov_height, $ur_x, $ur_y);\n            $p4 = $this->realWorld2ovMapPos($ov_width, $ov_height, $lr_x, $lr_y);\n\n\n            $red = ImageColorAllocate($image,255,0,0);\n            imageline ( $image, $p1[0], $p1[1], $p2[0], $p2[1], $red);\n            imageline ( $image, $p2[0], $p2[1], $p3[0], $p3[1], $red);\n            imageline ( $image, $p3[0], $p3[1], $p4[0], $p4[1], $red);\n            imageline ( $image, $p4[0], $p4[1], $p1[0], $p1[1], $red);\n        }\n\n        imagepng($image, $finalimagename);\n\n        $this->pdf->Image($finalimagename,\n                    $this->conf['overview']['x'] * 10,\n                    $this->conf['overview']['y'] * 10,\n                    $this->conf['overview']['width'] * 10,\n                    $this->conf['overview']['height'] * 10,\n                    'png');\n\n        $this->pdf->Rect($this->conf['overview']['x'] * 10,\n                         $this->conf['overview']['y'] * 10,\n                         $this->conf['overview']['width'] * 10,\n                         $this->conf['overview']['height'] * 10);\n\n        unlink($finalimagename);\n    }\n\n    private function drawScaleBar(){\n        // temp scale bar\n\n        $pdf = $this->pdf;\n        // Linienbreite einstellen, 0.5 mm\n        $pdf->SetLineWidth(0.1);\n        // Rahmenfarbe\n        $pdf->SetDrawColor(0, 0, 0);\n        // Füllung\n        $pdf->SetFillColor(0,0,0);\n        // Schriftart definieren\n        $pdf->SetFont('arial', '', 10 );\n\n        $length = 0.01 * $this->data['scale_select'] * 5;\n        $suffix = 'm';\n\n        $pdf->Text( $this->conf['scalebar']['x'] * 10 -1 , $this->conf['scalebar']['y'] * 10 - 1 , '0' );\n        $pdf->Text( $this->conf['scalebar']['x'] * 10 + 46, $this->conf['scalebar']['y'] * 10 - 1 , $length . '' . $suffix);\n\n        $pdf->Rect($this->conf['scalebar']['x'] * 10 , $this->conf['scalebar']['y'] * 10, 10, 2, 'FD');\n        $pdf->SetFillColor(255, 255, 255);\n        $pdf->Rect($this->conf['scalebar']['x'] * 10 + 10 , $this->conf['scalebar']['y'] * 10, 10, 2, 'FD');\n        $pdf->SetFillColor(0,0,0);\n        $pdf->Rect($this->conf['scalebar']['x'] * 10 + 20  , $this->conf['scalebar']['y'] * 10, 10, 2, 'FD');\n        $pdf->SetFillColor(255, 255, 255);\n        $pdf->Rect($this->conf['scalebar']['x'] * 10 + 30 , $this->conf['scalebar']['y'] * 10, 10, 2, 'FD');\n        $pdf->SetFillColor(0,0,0);\n        $pdf->Rect($this->conf['scalebar']['x'] * 10 + 40  , $this->conf['scalebar']['y'] * 10, 10, 2, 'FD');\n    }\n\n    private function getColor($color, $alpha, $image)\n    {\n        list($r, $g, $b) = CSSColorParser::parse($color);\n\n        if(0 == $alpha) {\n            return ImageColorAllocate($image, $r, $g, $b);\n        } else {\n            $a = (1 - $alpha) * 127.0;\n            return imagecolorallocatealpha($image, $r, $g, $b, $a);\n        }\n    }\n\n    private function drawPolygon($geometry, $image)\n    {\n        foreach($geometry['coordinates'] as $ring) {\n            if(count($ring) < 3) {\n                continue;\n            }\n\n            $points = array();\n            foreach($ring as $c) {\n                if($this->data['rotation'] === 0){\n                    $p = $this->realWorld2mapPos($c[0], $c[1]);\n                }else{\n                    $p = $this->realWorld2rotatedMapPos($c[0], $c[1]);\n                }\n                $points[] = floatval($p[0]);\n                $points[] = floatval($p[1]);\n            }\n            imagesetthickness($image, 0);\n            // Filled area\n            if($geometry['style']['fillOpacity'] > 0){\n                $color = $this->getColor(\n                    $geometry['style']['fillColor'],\n                    $geometry['style']['fillOpacity'],\n                    $image);\n                imagefilledpolygon($image, $points, count($ring), $color);\n            }\n            // Border\n            $color = $this->getColor(\n                $geometry['style']['strokeColor'],\n                $geometry['style']['strokeOpacity'],\n                $image);\n            if($this->data['quality'] == '288'){\n                imagesetthickness($image, $geometry['style']['strokeWidth']*4);\n            }else{\n                imagesetthickness($image, $geometry['style']['strokeWidth']);\n            }\n            imagepolygon($image, $points, count($ring), $color);\n        }\n    }\n\n    private function drawMultiPolygon($geometry, $image)\n    {\n        foreach($geometry['coordinates'][0] as $ring) {\n            if(count($ring) < 3) {\n                continue;\n            }\n\n            $points = array();\n            foreach($ring as $c) {\n                if($this->data['rotation'] === 0){\n                    $p = $this->realWorld2mapPos($c[0], $c[1]);\n                }else{\n                    $p = $this->realWorld2rotatedMapPos($c[0], $c[1]);\n                }\n                $points[] = floatval($p[0]);\n                $points[] = floatval($p[1]);\n            }\n            imagesetthickness($image, 0);\n            // Filled area\n            if($geometry['style']['fillOpacity'] > 0){\n                $color = $this->getColor(\n                    $geometry['style']['fillColor'],\n                    $geometry['style']['fillOpacity'],\n                    $image);\n                imagefilledpolygon($image, $points, count($ring), $color);\n            }\n            // Border\n            $color = $this->getColor(\n                $geometry['style']['strokeColor'],\n                $geometry['style']['strokeOpacity'],\n                $image);\n            if($this->data['quality'] == '288'){\n                imagesetthickness($image, $geometry['style']['strokeWidth']*4);\n            }else{\n                imagesetthickness($image, $geometry['style']['strokeWidth']);\n            }\n            imagepolygon($image, $points, count($ring), $color);\n        }\n    }\n\n    private function drawLineString($geometry, $image)\n    {\n        $color = $this->getColor(\n            $geometry['style']['strokeColor'],\n            $geometry['style']['strokeOpacity'],\n            $image);\n        \n        if($this->data['quality'] == '288'){\n            imagesetthickness($image, $geometry['style']['strokeWidth']*4);\n        }else{\n            imagesetthickness($image, $geometry['style']['strokeWidth']);\n        }\n\n        for($i = 1; $i < count($geometry['coordinates']); $i++) {\n            \n            if($this->data['rotation'] === 0){\n                $from = $this->realWorld2mapPos(\n                    $geometry['coordinates'][$i - 1][0],\n                    $geometry['coordinates'][$i - 1][1]);\n                $to = $this->realWorld2mapPos(\n                    $geometry['coordinates'][$i][0],\n                    $geometry['coordinates'][$i][1]);\n            }else{\n                $from = $this->realWorld2rotatedMapPos(\n                    $geometry['coordinates'][$i - 1][0],\n                    $geometry['coordinates'][$i - 1][1]);\n                $to = $this->realWorld2rotatedMapPos(\n                    $geometry['coordinates'][$i][0],\n                    $geometry['coordinates'][$i][1]);\n            }\n            \n            imageline($image, $from[0], $from[1], $to[0], $to[1], $color);\n        }\n    }\n\n    private function drawPoint($geometry, $image)\n    {        \n        $c = $geometry['coordinates'];\n        \n        if($this->data['rotation'] === 0){\n            $p = $this->realWorld2mapPos($c[0], $c[1]);\n        }else{\n            $p = $this->realWorld2rotatedMapPos($c[0], $c[1]);\n        }\n\n        if(isset($geometry['style']['label'])){\n            $color = $this->getColor(\n                '#ff0000',\n                1,\n                $image);\n\n            if($this->data['quality'] == '288'){\n                $fontSize = 40;\n            }else{\n                $fontSize = 14;\n            }\n\n            $fontPath = $this->container->get('kernel')->getRootDir().'/Resources/MapbenderPrintBundle/fonts/';\n            imagettftext($image, $fontSize, 0, $p[0], $p[1], $color, $fontPath.'Trebuchet_MS.ttf', $geometry['style']['label']);\n            return;\n        }\n        \n        \n        $radius = $geometry['style']['pointRadius'];\n        // Filled circle\n        if($geometry['style']['fillOpacity'] > 0){\n            $color = $this->getColor(\n                $geometry['style']['fillColor'],\n                $geometry['style']['fillOpacity'],\n                $image);\n            imagefilledellipse($image, $p[0], $p[1], 2*$radius, 2*$radius, $color);\n        }\n        \n        // Circle border\n        $color = $this->getColor(\n            $geometry['style']['strokeColor'],\n            $geometry['style']['strokeOpacity'],\n            $image);\n        imageellipse($image, $p[0], $p[1], 2*$radius, 2*$radius, $color);\n    }\n\n    private function drawFeatures()\n    {\n        $image = imagecreatefrompng($this->finalimagename);\n        imagesavealpha($image, true);\n        imagealphablending($image, true);\n\n        foreach($this->data['layers'] as $idx => $layer) {\n            if('GeoJSON+Style' !== $layer['type']) {\n                continue;\n            }\n\n            foreach($layer['geometries'] as $geometry) {\n                $renderMethodName = 'draw' . $geometry['type'];\n                if(!method_exists($this, $renderMethodName)) {\n                    continue;\n                    //throw new \\RuntimeException('Can not draw geometries of type \"' . $geometry['type'] . '\".');\n                }\n\n                $this->$renderMethodName($geometry, $image);\n            }\n        }\n        \n        imagepng($image, $this->finalimagename);\n    }\n    \n    private function realWorld2mapPos($rw_x,$rw_y)\n    {\n        $quality = $this->data['quality'];\n        $map_width = $this->data['extent']['width'];\n        $map_height = $this->data['extent']['height'];\n        $centerx = $this->data['center']['x'];\n        $centery = $this->data['center']['y'];\n\n        $minX = $centerx - $map_width * 0.5;\n        $minY = $centery - $map_height * 0.5;\n        $maxX = $centerx + $map_width * 0.5;\n        $maxY = $centery + $map_height * 0.5;\n\n        $extentx = $maxX - $minX ;\n	$extenty = $maxY - $minY ;\n\n        $pixPos_x = (($rw_x - $minX)/$extentx) * round($this->conf['map']['width']  / 2.54 * $quality) ;\n	$pixPos_y = (($maxY - $rw_y)/$extenty) * round($this->conf['map']['height']  / 2.54 * $quality);\n\n        $pixPos = array($pixPos_x, $pixPos_y);\n\n	return $pixPos;\n    }\n\n    private function realWorld2ovMapPos($ov_width, $ov_height, $rw_x,$rw_y)\n    {\n        $quality = $this->data['quality'];\n        $centerx = $this->data['center']['x'];\n        $centery = $this->data['center']['y'];\n\n        $minX = $centerx - $ov_width * 0.5;\n        $minY = $centery - $ov_height * 0.5;\n        $maxX = $centerx + $ov_width * 0.5;\n        $maxY = $centery + $ov_height * 0.5;\n\n        $extentx = $maxX - $minX ;\n	$extenty = $maxY - $minY ;\n\n        $pixPos_x = (($rw_x - $minX)/$extentx) * round($this->conf['overview']['width'] / 2.54 * $quality) ;\n	$pixPos_y = (($maxY - $rw_y)/$extenty) * round($this->conf['overview']['height'] / 2.54 * $quality);\n\n        $pixPos = array($pixPos_x, $pixPos_y);\n\n	return $pixPos;\n    }\n\n    private function realWorld2rotatedMapPos($rw_x,$rw_y)\n    {\n        $rotation = $this->data['rotation'];\n        $map_width = $this->data['extent']['width'];\n        $map_height = $this->data['extent']['height'];\n        $centerx = $this->data['center']['x'];\n        $centery = $this->data['center']['y'];\n\n        //set needed extent\n        $neededExtentWidth = round(abs(sin(deg2rad($rotation)) * $map_height) +\n            abs(cos(deg2rad($rotation)) * $map_width));\n        $neededExtentHeight = round(abs(sin(deg2rad($rotation)) * $map_width) +\n            abs(cos(deg2rad($rotation)) * $map_height));\n\n        $minX = $centerx - $neededExtentWidth * 0.5;\n        $minY = $centery - $neededExtentHeight * 0.5;\n        $maxX = $centerx + $neededExtentWidth * 0.5;\n        $maxY = $centery + $neededExtentHeight * 0.5;\n\n        //set needed image size\n        $neededImageWidth = round(abs(sin(deg2rad($rotation)) * $this->image_height) +\n            abs(cos(deg2rad($rotation)) * $this->image_width));\n        $neededImageHeight = round(abs(sin(deg2rad($rotation)) * $this->image_width) +\n            abs(cos(deg2rad($rotation)) * $this->image_height));\n\n        $extentx = $maxX - $minX ;\n	$extenty = $maxY - $minY ;\n\n        $pixPos_x = (($rw_x - $minX)/$extentx) * round($neededImageWidth) ;\n	$pixPos_y = (($maxY - $rw_y)/$extenty) * round($neededImageHeight);\n\n        $pixPos = array($pixPos_x, $pixPos_y);\n\n	return $pixPos;\n    }\n\n    private function createLegend()\n    {\n        if(empty($this->data['legends'])){\n            return false;\n        }\n\n        $this->pdf->addPage('P');\n        $this->pdf->SetFont('Arial', 'B', 14);\n        $x = 5;\n        $y = 10;\n        \n        foreach ($this->data['legends'] as $idx => $legendArray) {\n            foreach ($legendArray as $title => $legendUrl) {\n\n                $image = $this->getLegendImage($legendUrl);\n\n                $size = getimagesize($image);\n                $tempY = round($size[1] * 25.4 / 72) + 10;\n\n//                if($y + $tempY > ($this->pdf->h)){\n//                    $x += 105;\n//                    $y = 10;\n//                    if($x > ($this->pdf->w)-30){\n//                        $this->pdf->addPage('P');\n//                        $x = 5;\n//                        $y = 10;\n//                    }\n//                }\n                if($y + $tempY > ($this->pdf->h)-20){\n                    $this->pdf->addPage('P');\n                    $x = 5;\n                    $y = 10;\n                }\n\n                $this->pdf->setXY($x,$y);\n                $this->pdf->Cell(0,0,utf8_decode($title));\n\n                $this->pdf->Image($image, $x, $y + 5, 0, 0, 'png', '', false, 0);\n\n                $y += round($size[1] * 25.4 / 72) + 10;\n\n//                if($y > ($this->pdf->h)-30){\n//                    $x += 105;\n//                    $y = 10;\n//                }\n//                if($x > ($this->pdf->w)-20){\n//                    $this->pdf->addPage('P');\n//                    $x = 5;\n//                    $y = 10;\n//                }\n                if($y > ($this->pdf->h)-10){\n                    $this->pdf->addPage('P');\n                    $x = 5;\n                    $y = 10;\n                }\n\n                unlink($image);\n            }\n        }\n\n        $this->pdf->SetFont('Arial', '', 14);\n\n        foreach($this->data['layers'] as $idx => $layer) {\n            if('GeoJSON+Style' !== $layer['type']) {\n                continue;\n            }\n\n            if (empty($layer['geometries'])) {\n                continue;\n            }\n\n            $hasPolygon = true;\n            $hasPoint = true;\n            $hasLine = true;\n            foreach($layer['geometries'] as $geometry) {\n                if($geometry['type'] === 'Polygon' || $geometry['type'] === 'MultiPolygon'){\n                    if($hasPolygon === true){\n                        $hasPolygon = false;\n                        $imageName = $this->createPolygonLegendImage($geometry['style']);\n                        $this->pdf->Image($imageName, $x, $y, 0, 0, 'png', '', false, 0);\n                        $this->pdf->setXY($x + 20 ,$y + 5);\n                        $this->pdf->Cell(0,0,$layer['name']);\n                        $y += 12;\n\n                        unlink($imageName);\n                    }\n                }\n                if($geometry['type'] === 'LineString' || $geometry['type'] === 'MultiLineString'){\n                    if($hasLine === true){\n                        $hasLine = false;\n                        $imageName = $this->createLineLegendImage($geometry['style']);\n                        $this->pdf->Image($imageName, $x, $y, 0, 0, 'png', '', false, 0);\n                        $this->pdf->setXY($x + 20 ,$y + 5);\n                        $this->pdf->Cell(0,0,$layer['name']);\n                        $y += 12;\n\n                        unlink($imageName);\n                    }\n\n                }\n                if($geometry['type'] === 'Point'){\n                    if($hasPoint === true){\n                        $hasPoint = false;\n                        $imageName = $this->createPointLegendImage($geometry['style']);\n                        $this->pdf->Image($imageName, $x, $y, 0, 0, 'png', '', false, 0);\n                        $this->pdf->setXY($x + 20 ,$y + 6);\n                        $this->pdf->Cell(0,0,$layer['name']);\n                        $y += 12;\n\n                        unlink($imageName);\n                    }\n\n                }\n\n                if($y > ($this->pdf->h)-10){\n                    $this->pdf->addPage('P');\n                    $x = 5;\n                    $y = 10;\n                }\n            }\n        }\n\n\n    }\n\n    private function createPolygonLegendImage($style)\n    {\n        $newImage = imagecreatetruecolor(50, 30);\n        $whiteBackground = imagecolorallocate($newImage,255,255,255);\n        imagefill($newImage,0,0,$whiteBackground);\n\n        if($style['fillOpacity'] > 0){\n            $color = $this->getColor(\n                    $style['fillColor'],\n                    $style['fillOpacity'],\n                    $newImage);\n            imagefilledrectangle($newImage,5,5,42,22 ,$color);\n        }\n\n        imagesetthickness ($newImage , $style['strokeWidth']);\n        $color = $this->getColor(\n                $style['strokeColor'],\n                $style['strokeOpacity'],\n                $newImage);\n        imagerectangle($newImage,5,5,42,22 ,$color);\n\n\n        $imagename = tempnam($this->tempdir, 'mb_legend');\n        imagepng($newImage, $imagename);\n        return $imagename;\n    }\n\n    private function createLineLegendImage($style)\n    {\n        $newImage = imagecreatetruecolor(50, 30);\n        $whiteBackground = imagecolorallocate($newImage,255,255,255);\n        imagefill($newImage,0,0,$whiteBackground);\n\n        $color = $this->getColor(\n                $style['strokeColor'],\n                $style['strokeOpacity'],\n                $newImage);\n        imagesetthickness ($newImage , $style['strokeWidth']);\n        imageline($newImage,5,12,42,12 ,$color);\n\n        $imagename = tempnam($this->tempdir, 'mb_legend');\n        imagepng($newImage, $imagename);\n        return $imagename;\n    }\n\n    private function createPointLegendImage($style)\n    {\n        $newImage = imagecreatetruecolor(50, 30);\n        $whiteBackground = imagecolorallocate($newImage,255,255,255);\n        imagefill($newImage,0,0,$whiteBackground);\n\n        $radius = $style['pointRadius'];\n        if($style['fillOpacity'] > 0){\n            $color = $this->getColor(\n                $style['fillColor'],\n                $style['fillOpacity'],\n                $newImage);\n            imagefilledellipse($newImage, 25, 15, 2*$radius, 2*$radius, $color);\n        }\n\n        $color = $this->getColor(\n            $style['strokeColor'],\n            $style['strokeOpacity'],\n            $newImage);\n        imageellipse($newImage, 25, 15 , 2*$radius, 2*$radius, $color);\n\n        $imagename = tempnam($this->tempdir, 'mb_legend');\n        imagepng($newImage, $imagename);\n        return $imagename;\n    }\n\n    private function getLegendImage($url)\n    {\n\n        // $attributes = array();\n        // $subRequest = new Request(array(\n        //     'url' => $url\n        //     ), array(), $attributes, array(), array(), array(), '');\n        // $response = $this->container->get('http_kernel')->handle($subRequest,\n        //     HttpKernelInterface::SUB_REQUEST);\n\n        // $imagename = tempnam($this->tempdir, 'printlegend');\n\n        file_put_contents($imagename, $response->getContent());\n        die('<pre>' . print_r($response->, 1) . '</pre>');\n        return $imagename;\n    }\n\n    private function buildReportTables(){\n        if(empty($this->data['reportFeatures'])){\n            return false;\n        }\n\n        $pdf = $this->pdf;\n        $pdf->addPage('P');\n        $x = 10;\n        $y = 10;\n\n        $pdf->setXY($x,$y);\n\n        foreach ($this->data['reportFeatures'] as $key => $featureList) {\n            $pdf->SetFont('Arial', 'B', 14);\n            $pdf->Cell(0,10, utf8_decode($key),0,1);\n            foreach ($featureList as $idx => $feature) {\n                $count = count($feature);\n                $tempY = ($count * 8 + 10) + $pdf->getY();\n\n\n                if ($tempY > $pdf->h) {\n                    $pdf->addPage('P');\n                    $x = 10;\n                    $y = 10;\n                }\n                foreach ($feature as $attr => $value) {\n                    $pdf->SetFont('Arial', 'B', 12);\n                    $pdf->Cell(50,8, $attr ,1,0);\n                    $pdf->SetFont('Arial', '', 12);\n                    $pdf->Cell(100,8,utf8_decode($value),1,1);\n                }\n                $pdf->Cell(0,10, '',0,1);\n\n                if($pdf->getY() > $pdf->h - 30){\n                    $pdf->addPage('P');\n                    $x = 10;\n                    $y = 10;\n                }\n            }\n        }\n\n    }\n\n}\n",
+					"file": "/home/rsyed/Schreibtisch/PrintService.php",
+					"file_size": 47891,
+					"file_write_time": 130760064392996556,
+					"settings":
+					{
+						"buffer_size": 48030,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/rsyed/Schreibtisch/sublime_failure.txt",
+					"settings":
+					{
+						"buffer_size": 1089,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "ctag",
+				"selected_items":
+				[
+					[
+						"ctag",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"enabl",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"upgrade",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"git diff",
+						"Git: Diff Current File"
+					],
+					[
+						"sublmelinter",
+						"SublimeLinter: Enable Linting"
+					],
+					[
+						"editro",
+						"Set Syntax: EditorConfig"
+					],
+					[
+						"",
+						"Bookmarks: Select Previous"
+					],
+					[
+						"Snippet: php",
+						"Snippet: Debug Ausgabe in PHP"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: publicFunction"
+					],
+					[
+						"trimmer",
+						"Trimmer: Remove blank spaces."
+					],
+					[
+						"linter",
+						"SublimeLinter: Next Error"
+					],
+					[
+						"pa",
+						"Package Control: Enable Package"
+					],
+					[
+						"cta",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"hex",
+						"Hex Viewer: Toggle Hex View"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"code",
+						"PHP_CodeSniffer: Check File"
+					],
+					[
+						"codes",
+						"PHP_CodeSniffer: Check File"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"git checkout",
+						"Git: Checkout Tag"
+					],
+					[
+						"git ch",
+						"Git: Checkout Tag"
+					],
+					[
+						"git dif",
+						"Git: Diff Tool Current File"
+					],
+					[
+						"gist",
+						"Gist: Create Public Gist"
+					],
+					[
+						"package d",
+						"Package Control: Disable Package"
+					],
+					[
+						"package en",
+						"Package Control: Enable Package"
+					],
+					[
+						"livere",
+						"LiveReload: Self test"
+					],
+					[
+						"git che",
+						"Git: Checkout Tag"
+					],
+					[
+						"sidebar",
+						"Side Bar: Refresh"
+					],
+					[
+						"browse",
+						"Browse Mode: Jump List"
+					],
+					[
+						"bro",
+						"Browse Mode: Right Sidebar"
+					],
+					[
+						"instaa",
+						"Package Control: Install Package"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git ",
+						"Git: Status"
+					],
+					[
+						"git lo",
+						"Git: Log Current File"
+					],
+					[
+						"emmet ",
+						"Emmet: Select Next Item"
+					],
+					[
+						"emme",
+						"Emmet: Next Edit Point"
+					],
+					[
+						"emmet",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"ena",
+						"BracketHighlighter: Enable Debug Mode"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"tern",
+						"TernJS: Next Occurance"
+					],
+					[
+						"symfony class",
+						"Snippet: Symfony2 / Document / Document class"
+					],
+					[
+						"class",
+						"Snippet: Class"
+					],
+					[
+						"symfon clas",
+						"Snippet: Symfony2 / Command / Command class"
+					],
+					[
+						"emm",
+						"Emmet: Wrap With Abbreviation"
+					],
+					[
+						"filedi",
+						"FileDiffs: Menu"
+					],
+					[
+						"css",
+						"Emmet: Reflect CSS Value"
+					],
+					[
+						"jquery",
+						"Snippet: jQuery(document).ready"
+					],
+					[
+						"jque",
+						"Snippet: jQuery.map"
+					],
+					[
+						"doc",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"Doc",
+						"DocBlockr: Decorate line comment"
+					],
+					[
+						"git:",
+						"Git: Blame"
+					],
+					[
+						"git:st",
+						"Git: Status"
+					],
+					[
+						"git:blam",
+						"Git: Blame"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"TODO",
+						"TodoReview: Project Files"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"getset",
+						"Snippet: Create getter and setter methods"
+					],
+					[
+						"setget",
+						"Snippet: Create getter and setter methods"
+					],
+					[
+						"Snippet: get",
+						"Snippet: Create getter and setter methods"
+					],
+					[
+						"get",
+						"Snippet: Create getter and setter methods"
+					],
+					[
+						"Snippet: pub",
+						"Snippet: publicFunction"
+					],
+					[
+						"instl",
+						"Package Control: Install Package"
+					],
+					[
+						"tas",
+						"Tasks: New"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"snippe",
+						"Snippet: Folder and File exclude etc."
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pakacge",
+						"Package Control: Disable Package"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"sniffer",
+						"PHP Code Sniffer: Sniff this file"
+					],
+					[
+						"pakac",
+						"Package Control: Remove Package"
+					],
+					[
+						"packa",
+						"Package Control: Enable Package"
+					],
+					[
+						"packge",
+						"Package Control: Disable Package"
+					],
+					[
+						"packe",
+						"Package Control: Enable Package"
+					],
+					[
+						"linte",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"lint",
+						"SublimeLinter: Show Error List"
+					],
+					[
+						"php",
+						"PHP Code Sniffer: Sniff this file"
+					],
+					[
+						"paka",
+						"Package Control: Disable Package"
+					],
+					[
+						"symfo",
+						"Symfony: go to view"
+					],
+					[
+						"pack",
+						"Package Control: Disable Package"
+					],
+					[
+						"INSTAll",
+						"Package Control: Install Package"
+					],
+					[
+						"sublimegit",
+						"SublimeGit: Documentation"
+					],
+					[
+						"packag",
+						"Package Control: Remove Package"
+					],
+					[
+						"sublimelinter",
+						"SublimeLinter: Extract Annotations"
+					],
+					[
+						"pak",
+						"Package Control: Install Package"
+					],
+					[
+						"package ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 601.0
+			},
+			"console":
+			{
+				"height": 382.0,
+				"history":
+				[
+					"print test",
+					"test = 'beginn'",
+					"print 'test'",
+					"print beginn",
+					"print \"beginn\"",
+					"codeintel",
+					"view.encoding()",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/rsyed/Projects/fiona-2013/application",
+				"/home/rsyed/Projects/fiona-2013/application/app",
+				"/home/rsyed/Projects/fiona-2013/application/app/config",
+				"/home/rsyed/Projects/fiona-2013/application/vendor",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni/fpdf",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni/fpdf/lib",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni/fpdf/lib/FPDF",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni/fpdf/lib/FPDF/src"
+			],
+			"file_history":
+			[
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/PrintBundle/Component/PDF_ImageAlpha.php",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni/fpdf/lib/FPDF/FPDI.php",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/toooni/fpdf/lib/FPDF/src/fpdf.php",
+				"/home/rsyed/Projects/fiona-2013/gisela.sublime-project",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Resources/public/css/printDialog.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/views/index.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/gisela.yml",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/rsyed/Schreibtisch/SublimeConfBackup/13.05.2015/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/rsyed/Projects/projectEuler/task1.py",
+				"/home/rsyed/Schreibtisch/PrintService.php",
+				"/home/rsyed/Projects/fiona-2013/application/composer.phar",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js.dist",
+				"/home/rsyed/Schreibtisch/test.py",
+				"/home/rsyed/Projects/fiona-2013/.jscsrc",
+				"/home/rsyed/Projects/fiona-2013/application/.editorconfig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.gisRolechooser.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php",
+				"/home/rsyed/Projects/.editorconfig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/init.js",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/JS/consolelog.sublime-snippet",
+				"/home/rsyed/Projects/coding_examples/Sublime/.jscsrc.myStyle",
+				"/home/rsyed/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/PrintBundle/Component/OdgParser.php",
+				"/home/rsyed/.config/sublime-text-3/Packages/PhpNamespace/Default (Linux).sublime-keymap",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/public/js/getSelection.js",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+				"/home/rsyed/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/build/fiona.cfg",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/lib/OpenLayers/Control/DragFeature.js",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/PHP/publicFunction.sublime-snippet",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/PrintBundle/Controller/PrintController.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js",
+				"/home/rsyed/Projects/coding_examples/Sublime/.jscsrc",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Gist.sublime-settings",
+				"/home/rsyed/.zshrc",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/addLicenseStamp.py",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/My_Plugins/addLicenseStamp.py",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/PHP/solr-find.sublime-snippet",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/PHP/pre-print_r.sublime-snippet",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/Snippets/PHP/getset.sublime-snippet",
+				"/home/rsyed/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/JavaScript.sublime-settings",
+				"/home/rsyed/Projects/fiona-2013/application/Gruntfile.js",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/parameters.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/fiona.featureinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselaprint/js/startPrintView.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/login/login.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/login/securityFrame.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/Template/regional/bootstrap.base.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/views/common.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/Component/HTTPClient.php",
+				"/home/rsyed/Projects/fiona-2013/application/printDialog.css",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fa_foerderverfahren.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/notification/notification.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fa_digitale_flurbilanz.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.historicLayers.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/init.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/fiona.featureinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/fiona.featureinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselamap/js/gisela.gisRolechooser.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselalogin/css/giselaRoles.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/public/css/giselaNotification.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselalogin/css/giselaNotification.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselalogin/js/getSelection.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Component/FsbRightManager.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Component/AbfManager.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.fsbinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselamap/js/gisela.fsbinfo.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fiona.yml",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/fiona.sidebar.js",
+				"/home/rsyed/.bugwarriorrc",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fa_schaedlingserfassung.yml",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/css/featureinfo.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/lib/OpenLayers-2.13.1/tests/Filter/FeatureId.html",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/lib/OpenLayers-2.13.1/examples/feature-events.html",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/swiftmailer/swiftmailer/lib/classes/Swift/FailoverTransport.php",
+				"/home/rsyed/Projects/fiona-2013/application/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/faye-websocket/examples/autobahn_client.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/config/services.xml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Security/Authentication/Provider/OraProvider.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Controller/WfstController.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/DigitizerBundle/Controller/FeatureController.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/css/main.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/css/sidebar.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/giselamap/css/giselaMain.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/theme/default/img/blank.gif",
+				"/home/rsyed/.config/sublime-text-3/Packages/PHP_CodeSniffer/PHP_CodeSniffer.sublime-settings",
+				"/home/rsyed/.config/sublime-text-3/Packages/User/PHP_CodeSniffer.sublime-settings",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/config.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Handler/AuthenticationSuccessHandler.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Handler/LogoutHandler.php",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/config/security.xml",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/security.yml",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/views/login.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Fiona/MapBundle/Resources/views/index.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basesearch/fiona.search.js",
+				"/home/rsyed/Projects/fiona-2013/application/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/node_modules/underscore/index.html",
+				"/home/rsyed/Projects/fiona-2013/application/app/Resources/views/base.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/vendor/symfony/symfony/src/Symfony/Bundle/SecurityBundle/Tests/Functional/app/Resources/views/base.html.twig",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/PrintBundle/Component/PrintService.php",
+				"/home/rsyed/Schreibtisch/wms",
+				"/home/rsyed/Schreibtisch/zsdf",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/fiona.sidebar.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/PrintBundle/GiselaPrintBundle.php",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/lib/OpenLayers-2.13.1/lib/OpenLayers/Layer/Grid.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/OpenLayers.debug.js",
+				"/media/rsyed/RS_WORK/test.txt",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/css/giselaMain.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/DigitizerBundle/Resources/public/js/digitizer.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/theme/default/style.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Base/DigitizerBundle/Resources/public/js/digitizer.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/css/main.css",
+				"/home/rsyed/Projects/fiona-2013/application/web/bundles/basemap/lib/OpenLayers-2.13.1/theme/default/style.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/lib/OpenLayers-2.13.1/olfiona.js",
+				"/home/rsyed/Projects/fiona-2013/application/src/Fiona/MapBundle/Resources/public/lib/OpenLayers-2.13.1/theme/default/style.css",
+				"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/LoginBundle/Resources/public/regional/vendor/bootstrap/3.2.0/css/bootstrap.css",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/hta.yml",
+				"/home/rsyed/Projects/ProjectDocumentation/GISELa/Apache2 Einrichtung SuseLinux",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fa_schalvo.yml",
+				"/home/rsyed/Projects/fiona-2013/application/app/config/fa_weinbau.yml"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"<project>",
+					"<project>,*.yml",
+					"<project>",
+					"<project>,*.css",
+					"<project>",
+					"<project>,*.css",
+					"<project>",
+					"<project>,*.js",
+					"<project>",
+					"<project>,",
+					"<project>,*.php",
+					"<project>",
+					"<project>,*.php",
+					"<project>",
+					"<open folders>",
+					"<open folders>,*.js",
+					"<open folders>,*.css",
+					"<open folders>",
+					"",
+					"<open folders>",
+					"<open folders>,*.css",
+					"<open folders>",
+					"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Gisela/MapBundle/Resources/public/js/fsb",
+					"<open folders>",
+					"/home/rsyed/Projects/fiona-2013/application/",
+					"/home/rsyed/Projects/fiona-2013/application/vendor",
+					"/home/rsyed/Projects/fiona-2013/application/vendor/symfony",
+					"/home/rsyed/Projects/fiona-2013/application/src/IZLBW",
+					"/home/rsyed/Projects/fiona-2013/application/vendor/symfony/symfony/src/Symfony",
+					"/home/rsyed/Projects/fiona-2013/application/vendor/symfony/symfony",
+					"/home/rsyed/Projects/fiona-2013/application/vendor/symfony/symfony/src/Symfony/Component/Security",
+					"<project>",
+					"/home/rsyed/Projects/fiona-2013/application/src/",
+					"/home/rsyed/Projects/fiona-2013/application/",
+					"/home/rsyed/Projects/fiona-2013/application/src/",
+					"/home/rsyed/Projects/fiona-2013/application/",
+					"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/",
+					"/home/rsyed/Projects/fiona-2013/application/src/IZLBW/Fiona/MapBundle/Resources/public",
+					"/home/rsyed/Projects/fiona-2013/application/src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"imagename",
+					"pre",
+					"$this->layer",
+					"contenttype",
+					"getimages",
+					"$im",
+					"im",
+					"pre",
+					"im",
+					"om",
+					"im",
+					"httpclient",
+					"mergedimage",
+					"getimages",
+					"transparency-slider",
+					"transparency_slider",
+					"layer_urls",
+					"layer",
+					"log",
+					"addPage",
+					"addpdf",
+					"layerTitle",
+					"createLabelImg",
+					"select[name",
+					"auto_complete",
+					"tern_argument_completion",
+					"panel",
+					"tern_argument_hints_type",
+					"tern_argument_hints",
+					"tern",
+					"getLegend",
+					"Consolas",
+					"buildpdf",
+					"legend",
+					"getPrintExtent",
+					"createGeometry",
+					"getprintextent",
+					"button",
+					"requireSpaceBetweenArguments",
+					"feature",
+					"getScale",
+					"100",
+					"button",
+					"printScale",
+					"change",
+					"lastScale",
+					"world_size",
+					"center",
+					"featureTest",
+					"updateElements",
+					"this.layer",
+					"inden",
+					"tab",
+					"tabs",
+					"fsbinfo",
+					"getSelection",
+					"printview",
+					"requireSpacesInsideParentheses",
+					"f5",
+					"f2",
+					"f4",
+					"reset",
+					"updategeometry",
+					"proxy",
+					"updategeome",
+					"this.feature",
+					"printview",
+					"bounds",
+					".printc",
+					".php",
+					"on(",
+					"on(change",
+					"template",
+					"replace",
+					"DragFeature",
+					"vectorLayer",
+					"drag",
+					"polygon",
+					"openlayers",
+					"template",
+					"geometry",
+					"generateFields",
+					"generateField",
+					"action",
+					"form",
+					"bold",
+					"tab",
+					"round",
+					"wmsurl",
+					"wmts",
+					"self.",
+					"historiclayer",
+					"sessionStorage.setItem",
+					"sessionstorage",
+					"getLayerName",
+					"changeSelectedYear",
+					"history",
+					"wmts",
+					".link",
+					"none",
+					"pointer-events: none",
+					"fiona.server_name",
+					"deactivate",
+					"fiona.server_name",
+					"schema",
+					"digitizer/feature",
+					"rpa",
+					"Fiona.server_name",
+					"server_name",
+					"isServiceName",
+					"giselainit",
+					"fionagis-roles-view",
+					"basedir",
+					"abf",
+					"oracle_service_name",
+					"features_database_host",
+					"$this->connectionStr",
+					"setupmap",
+					"olImageLoadError",
+					"log",
+					"logger",
+					"log",
+					"logger.log",
+					"olMap.events.register('move",
+					"#zoom-to-box-btn",
+					"zoom-to-box-btn",
+					"sidebar",
+					"FLURSTUECKSKENNZEICHEN"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Fiona.HistoricLayers.",
+					"Fiona.HistoricLayers",
+					"",
+					"\"",
+					"'",
+					"",
+					"$this->rolename",
+					"layer",
+					"\n",
+					".",
+					"#CECECE",
+					"#259d25",
+					"'%mapserver%'",
+					"$container",
+					"#",
+					"array($message[0])",
+					"OCI8Connection",
+					"DBUser",
+					"#ff8f0e",
+					"#ff7e0e",
+					"bundles/giselalogin",
+					"BaseMapBundle::common.html.twig",
+					"use IZLBW\\Fiona\\",
+					"sublime"
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "application/src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23766,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												10961,
+												10961
+											],
+											[
+												12973,
+												12973
+											],
+											[
+												19340,
+												19340
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										16084,
+										16084
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"live_git_annotations": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 6949.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "application/src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7103,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5950,
+										5950
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"live_git_annotations": true,
+									"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2349.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "application/src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7726,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5022,
+										5022
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"live_git_annotations": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1539.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "application/src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 69903,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4945,
+										4945
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"live_git_annotations": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1401.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "application/src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4032,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										964,
+										964
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"live_git_annotations": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "application/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/qs/test/browser/jquery.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 236202,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												19936,
+												19936
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										19968,
+										19968
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"live_git_annotations": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 17680.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "application/src/IZLBW/Base/PrintBundle/Component/PrintService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 27244,
+								"regions":
+								{
+									"bookmarks":
+									{
+										"flags": 144,
+										"icon": "bookmark",
+										"regions":
+										[
+											[
+												20528,
+												20528
+											]
+										],
+										"scope": "bookmarks"
+									}
+								},
+								"selection":
+								[
+									[
+										7229,
+										7229
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"live_git_annotations": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3831.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "application/app/config/gisela.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7411,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										469,
+										469
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"editorconfig": true,
+									"ensure_newline_at_eof_on_save": true,
+									"live_git_annotations": true,
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"trim_trailing_white_space_on_save": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/rsyed/Schreibtisch/PrintService.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 48030,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6827,
+										6827
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_complete": false,
+									"bh_regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"live_git_annotations": true,
+									"syntax": "Packages/PHP/PHP.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2425.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/rsyed/Schreibtisch/sublime_failure.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1089,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1089,
+										1089
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Seti (SL).tmTheme",
+									"live_git_annotations": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 47.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SymfonyCommander":
+			{
+				"height": 112.0
+			},
+			"output.exec":
+			{
+				"height": 342.0
+			},
+			"output.find_results":
+			{
+				"height": 858.0
+			},
+			"output.hex_viewer_inspector":
+			{
+				"height": 108.0
+			},
+			"output.package_dev":
+			{
+				"height": 126.0
+			},
+			"output.phpcs_result_view":
+			{
+				"height": 553.0
+			},
+			"output.unicode_preview":
+			{
+				"height": 696.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,3840,1080",
+			"project": "gisela.sublime-project",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"giselacontrolle",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"giselav",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"fiona.si",
+						"src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"print",
+						"~/Schreibtisch/PrintService.php"
+					],
+					[
+						"giselavie",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"start",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"index.html",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/index.html.twig"
+					],
+					[
+						"giselacontr",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"printcotnrolller",
+						"src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"login",
+						"src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php"
+					],
+					[
+						"jquery",
+						"node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/qs/test/browser/jquery.js"
+					],
+					[
+						"init",
+						"src/IZLBW/Base/MapBundle/Resources/public/init.js"
+					],
+					[
+						"odg",
+						"src/IZLBW/Base/PrintBundle/Component/OdgParser.php"
+					],
+					[
+						"gisrole",
+						"src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.gisRolechooser.js"
+					],
+					[
+						"getsele",
+						"src/IZLBW/Gisela/LoginBundle/Resources/public/js/getSelection.js"
+					],
+					[
+						"printview",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"prints",
+						"src/IZLBW/Base/PrintBundle/Component/PrintService.php"
+					],
+					[
+						"drag",
+						"src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/lib/OpenLayers/Control/DragFeature.js"
+					],
+					[
+						"princontr",
+						"src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"printcon",
+						"src/IZLBW/Base/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"giselayml",
+						"app/config/gisela.yml"
+					],
+					[
+						"startprinv",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"bootstrap.bas",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/Template/regional/bootstrap.base.html.twig"
+					],
+					[
+						"securityframe",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/login/securityFrame.html.twig"
+					],
+					[
+						"login.",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/login/login.html.twig"
+					],
+					[
+						"printdial",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/css/printDialog.css"
+					],
+					[
+						"common",
+						"src/IZLBW/Base/MapBundle/Resources/views/common.html.twig"
+					],
+					[
+						"gisela.html",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"notificatio",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/notification/notification.html.twig"
+					],
+					[
+						"fiona.fe",
+						"src/IZLBW/Base/MapBundle/Resources/public/fiona.featureinfo.js"
+					],
+					[
+						"historic",
+						"src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.historicLayers.js"
+					],
+					[
+						"fiona.feat",
+						"src/Fiona/MapBundle/Resources/public/fiona.featureinfo.js"
+					],
+					[
+						"ini",
+						"src/Fiona/MapBundle/Resources/public/init.js"
+					],
+					[
+						"init.js",
+						"src/IZLBW/Base/MapBundle/Resources/public/init.js"
+					],
+					[
+						"featureinf",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"notificai",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/notification/notification.html.twig"
+					],
+					[
+						"roles.css",
+						"web/bundles/giselalogin/css/giselaRoles.css"
+					],
+					[
+						"fsbin",
+						"src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.fsbinfo.js"
+					],
+					[
+						"fsb",
+						"web/bundles/giselamap/js/gisela.fsbinfo.js"
+					],
+					[
+						"index.htm",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/index.html.twig"
+					],
+					[
+						"fsbri",
+						"src/IZLBW/Gisela/MapBundle/Component/FsbRightManager.php"
+					],
+					[
+						"abf",
+						"src/IZLBW/Gisela/MapBundle/Component/AbfManager.php"
+					],
+					[
+						"featurein",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"abfman",
+						"src/IZLBW/Gisela/MapBundle/Component/AbfManager.php"
+					],
+					[
+						"giselacon",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"giselacot",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"sidebar",
+						"src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"services",
+						"src/IZLBW/Gisela/LoginBundle/Resources/config/services.xml"
+					],
+					[
+						"orapro",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/Provider/OraProvider.php"
+					],
+					[
+						"dyna",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php"
+					],
+					[
+						"fiona.side",
+						"~/Projects/fiona-2013/application/src/IZLBW/Base/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"gisela.",
+						"app/config/gisela.yml"
+					],
+					[
+						"para",
+						"app/config/parameters.yml"
+					],
+					[
+						"confi",
+						"app/config/config.yml"
+					],
+					[
+						"rolecon",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"drm",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php"
+					],
+					[
+						"main",
+						"src/IZLBW/Base/MapBundle/Resources/public/css/main.css"
+					],
+					[
+						"gisselavi",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"loginsucc",
+						"src/IZLBW/Gisela/LoginBundle/Handler/AuthenticationSuccessHandler.php"
+					],
+					[
+						"rolescon",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"logincontr",
+						"src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php"
+					],
+					[
+						"services.",
+						"src/IZLBW/Gisela/LoginBundle/Resources/config/services.xml"
+					],
+					[
+						"orapr",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/Provider/OraProvider.php"
+					],
+					[
+						"init.",
+						"src/Fiona/MapBundle/Resources/public/init.js"
+					],
+					[
+						"common.",
+						"src/IZLBW/Base/MapBundle/Resources/views/common.html.twig"
+					],
+					[
+						"giselaview",
+						"src/IZLBW/Gisela/MapBundle/Resources/views/giselaView.html.twig"
+					],
+					[
+						"abfmana",
+						"src/IZLBW/Gisela/MapBundle/Component/AbfManager.php"
+					],
+					[
+						"index.h",
+						"src/IZLBW/Fiona/MapBundle/Resources/views/index.html.twig"
+					],
+					[
+						"gisela.fsb",
+						"src/IZLBW/Gisela/MapBundle/Resources/public/js/gisela.fsbinfo.js"
+					],
+					[
+						"rolesco",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"dynama",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php"
+					],
+					[
+						"or",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/Provider/OraProvider.php"
+					],
+					[
+						"printser",
+						"src/IZLBW/Base/PrintBundle/Component/PrintService.php"
+					],
+					[
+						"http",
+						"src/IZLBW/Gisela/PrintBundle/Component/HTTPClient.php"
+					],
+					[
+						"startpr",
+						"src/IZLBW/Gisela/PrintBundle/Resources/public/js/startPrintView.js"
+					],
+					[
+						"giselapr",
+						"src/IZLBW/Gisela/PrintBundle/GiselaPrintBundle.php"
+					],
+					[
+						"princon",
+						"src/IZLBW/Base/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"fa_fo",
+						"app/config/fa_foerderverfahren.yml"
+					],
+					[
+						"fa_",
+						"app/config/fa_foerderverfahren.yml"
+					],
+					[
+						"gisela.y",
+						"app/config/gisela.yml"
+					],
+					[
+						"roleman",
+						"src/IZLBW/Gisela/LoginBundle/Security/Authentication/DynamicRoleManager.php"
+					],
+					[
+						"gisela",
+						"web/bundles/giselamap/css/giselaMain.css"
+					],
+					[
+						"foer",
+						"app/config/fa_foerderverfahren.yml"
+					],
+					[
+						"digi",
+						"src/Fiona/DigitizerBundle/Resources/public/js/digitizer.js"
+					],
+					[
+						"common.ht",
+						"src/IZLBW/Base/MapBundle/Resources/views/common.html.twig"
+					],
+					[
+						"style.css",
+						"src/IZLBW/Base/MapBundle/Resources/public/lib/OpenLayers-2.13.1/theme/default/style.css"
+					],
+					[
+						"main.css",
+						"src/IZLBW/Base/MapBundle/Resources/public/css/main.css"
+					],
+					[
+						"digiti",
+						"src/IZLBW/Base/DigitizerBundle/Resources/public/js/digitizer.js"
+					],
+					[
+						"bootstrap.css",
+						"web/bundles/basemap/lib/bootstrap/css/bootstrap.css"
+					],
+					[
+						"get",
+						"web/bundles/giselalogin/js/getSelection.js"
+					],
+					[
+						"featureinfo",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"secu",
+						"app/config/security.yml"
+					],
+					[
+						"printc",
+						"src/IZLBW/Gisela/PrintBundle/Controller/PrintController.php"
+					],
+					[
+						"sidebar.js",
+						"src/Fiona/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"roles",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/roles/roles.html.twig"
+					],
+					[
+						"giselaroles",
+						"web/bundles/giselalogin/css/giselaRoles.css"
+					],
+					[
+						"authenticanman",
+						"vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/AuthenticationProviderManager.php"
+					],
+					[
+						"roleco",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"rolechoo",
+						"web/bundles/giselamap/css/gisela-gisRolechooser.css"
+					],
+					[
+						"chooser",
+						"web/bundles/giselamap/js/gisela.gisRolechooser.js"
+					],
+					[
+						"giselaco",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						"rolescontr",
+						"src/IZLBW/Gisela/LoginBundle/Controller/RolesController.php"
+					],
+					[
+						"hta",
+						"app/config/hta.yml"
+					],
+					[
+						"giselalog",
+						"web/bundles/giselalogin/css/giselaLogin.css"
+					],
+					[
+						"giselalo",
+						"web/bundles/giselalogin/css/giselaLogin.css"
+					],
+					[
+						"role",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/roles/roles.html.twig"
+					],
+					[
+						"giselacont",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					],
+					[
+						".woff",
+						"web/bundles/fionamap/fonts/icomoon/fonts/icomoon.woff"
+					],
+					[
+						"main.cs",
+						"src/IZLBW/Base/MapBundle/Resources/public/css/main.css"
+					],
+					[
+						"grunt",
+						"Gruntfile.js"
+					],
+					[
+						"config.y",
+						"app/config/config.yml"
+					],
+					[
+						"gisroles.css",
+						"web/bundles/giselalogin/css/giselaRoles.css"
+					],
+					[
+						"featurinfo.js",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"login.htm",
+						"src/IZLBW/Gisela/LoginBundle/Resources/views/login/login.html.twig"
+					],
+					[
+						"login.css",
+						"web/bundles/giselalogin/css/giselaLogin.css"
+					],
+					[
+						"gise",
+						"web/bundles/giselalogin/css/giselaLogin.css"
+					],
+					[
+						"fsbinf",
+						"web/bundles/giselamap/js/gisela.fsbinfo.js"
+					],
+					[
+						"fiona.fea",
+						"web/bundles/basemap/fiona.featureinfo.js"
+					],
+					[
+						"logincontrol",
+						"src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php"
+					],
+					[
+						"fiona.ym",
+						"app/config/fiona.yml"
+					],
+					[
+						"embedd",
+						"src/Fiona/MapBundle/Controller/EmbeddedController.php"
+					],
+					[
+						"fiona.sidebar",
+						"src/Fiona/MapBundle/Resources/public/fiona.sidebar.js"
+					],
+					[
+						"featurecop",
+						"src/Fiona/DigitizerBundle/Controller/FeatureController.php"
+					],
+					[
+						"feature",
+						"src/Fiona/DigitizerBundle/Controller/FeatureController.php"
+					],
+					[
+						"featurecontrol",
+						"src/Fiona/DigitizerBundle/Controller/FeatureController.php"
+					],
+					[
+						"logincontroller",
+						"src/IZLBW/Gisela/LoginBundle/Controller/LoginController.php"
+					],
+					[
+						"giselac",
+						"src/IZLBW/Gisela/MapBundle/Controller/GiselaController.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"gir",
+						"~/Projects/girlsday/GirlsDay.sublime-project"
+					],
+					[
+						"",
+						"~/Projects/sublime_projects/rlp.sublime-project"
+					],
+					[
+						"girls",
+						"~/Projects/girlsday/girlsday.sublime-workspace"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 353.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": "/home/rsyed/Projects/fiona-2013/gisela.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/rsyed/Projects/fiona-2013/gisela.sublime-workspace"
+		]
+	}
+}
